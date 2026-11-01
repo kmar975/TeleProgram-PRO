@@ -1,0 +1,2010 @@
+{
+  "skazani na shawshank_1994": {
+    "rating": 9.3,
+    "votes": 2900000,
+    "year": 1994,
+    "awards": "Nominated for 7 Oscars. Another 21 wins & 43 nominations.",
+    "awards_badges": "✨ Nom. do Oscara (7)",
+    "awards_bonus": 7.1
+  },
+  "czas zemsty_2003": {
+    "rating": 5.2,
+    "votes": 25000,
+    "year": 2003,
+    "awards": "Film sensacyjny.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "transporter 3_2008": {
+    "rating": 6.1,
+    "votes": 180000,
+    "year": 2008,
+    "awards": "Film akcji.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "bez twarzy_1997": {
+    "rating": 7.3,
+    "votes": 400000,
+    "year": 1997,
+    "awards": "Nominated for 1 Oscar.",
+    "awards_badges": "✨ Nom. do Oscara",
+    "awards_bonus": 3.5
+  },
+  "vinci 2_2025": {
+    "rating": 6.2,
+    "votes": 8500,
+    "year": 2025,
+    "awards": "Polska premiera kinowa 2025",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kler_2018": {
+    "rating": 7.1,
+    "votes": 35000,
+    "year": 2018,
+    "awards": "Złote Lwy Festiwal w Gdyni, Polskie Orły",
+    "awards_badges": "🌴 Złota Palma / Lew / Niedźwiedź | 🦅 Orzeł / Złote Lwy",
+    "awards_bonus": 15.5
+  },
+  "milczenie owiec_1991": {
+    "rating": 8.6,
+    "votes": 1550000,
+    "year": 1991,
+    "awards": "Won 5 Oscars. Another 69 wins.",
+    "awards_badges": "🏆 Oscar (5)",
+    "awards_bonus": 16.0
+  },
+  "inspektor vera 5": {
+    "rating": 6.6,
+    "votes": 1000,
+    "year": null,
+    "awards": ""
+  },
+  "kosci": {
+    "rating": 6.6,
+    "votes": 1000,
+    "year": null,
+    "awards": ""
+  },
+  "vera 5 przelom": {
+    "rating": 6.6,
+    "votes": 1000,
+    "year": null,
+    "awards": ""
+  },
+  "hiacynt_2021": {
+    "rating": 6.6,
+    "votes": 0,
+    "rating_fmt": "⭐ 6.6 (FW 6.4 / IMDb 6.8)",
+    "year": 2021,
+    "imdb_id": "tt14315584",
+    "awards": ""
+  },
+  "air america_1990": {
+    "rating": 5.8,
+    "votes": 32000,
+    "rating_fmt": "⭐ 5.8 (32k)",
+    "year": 1990,
+    "awards": ""
+  },
+  "poszukiwany poszukiwana_1972": {
+    "rating": 7.6,
+    "votes": 35000,
+    "rating_fmt": "⭐ 7.6 (35k)",
+    "year": 1972,
+    "awards": "Kultowa polska komedia Stanisława Barei.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "lokatorka_2021": {
+    "rating": 6.0,
+    "votes": 4500,
+    "rating_fmt": "⭐ 6.0 (4k)",
+    "year": 2021,
+    "awards": "Złote Lwy Gdynia za rolę drugoplanową.",
+    "awards_badges": "🌴 Złota Palma / Lew / Niedźwiedź | 🦅 Orzeł / Złote Lwy",
+    "awards_bonus": 15.5
+  },
+  "bullet train_2022": {
+    "rating": 7.3,
+    "votes": 410000,
+    "rating_fmt": "⭐ 7.3 (410k)",
+    "year": 2022,
+    "awards": ""
+  },
+  "lot skazancow_1997": {
+    "rating": 6.9,
+    "votes": 350000,
+    "rating_fmt": "⭐ 6.9 (350k)",
+    "year": 1997,
+    "awards": "2 nominacje do Oscara.",
+    "awards_badges": "✨ Nom. do Oscara",
+    "awards_bonus": 3.5
+  },
+  "terminator mroczne przeznaczenie_2019": {
+    "rating": 6.2,
+    "votes": 190000,
+    "rating_fmt": "⭐ 6.2 (190k)",
+    "year": 2019,
+    "awards": "Film SF.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mumia grobowiec cesarza smoka_2008": {
+    "rating": 5.2,
+    "votes": 175000,
+    "rating_fmt": "⭐ 5.2 (175k)",
+    "year": 2008,
+    "awards": "Film przygodowy.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "uwiezieni w raju_2016": {
+    "rating": 5.1,
+    "votes": 0,
+    "rating_fmt": "⭐ 5.1 (FW 5.1 / IMDb 5.0)",
+    "year": 2016,
+    "imdb_id": "tt5925380",
+    "awards": ""
+  },
+  "papusza_2013": {
+    "rating": 7.3,
+    "votes": 0,
+    "rating_fmt": "⭐ 7.3 (FW 7.3 / IMDb 7.4)",
+    "year": 2013,
+    "imdb_id": "tt2719094",
+    "awards": ""
+  },
+  "uwieziony prymas_2003": {
+    "rating": 5.7,
+    "votes": 0,
+    "rating_fmt": "⭐ 5.7 (Filmweb)",
+    "year": 2003,
+    "imdb_id": null,
+    "awards": ""
+  },
+  "zemsta_2002": {
+    "rating": 5.9,
+    "votes": 0,
+    "rating_fmt": "⭐ 5.9 (FW 6.0 / IMDb 5.8)",
+    "year": 2002,
+    "imdb_id": "tt0314942",
+    "awards": ""
+  },
+  "fan_1987": {
+    "rating": 5.6,
+    "votes": 0,
+    "rating_fmt": "⭐ 5.6 (Filmweb)",
+    "year": 1987,
+    "imdb_id": null,
+    "awards": ""
+  },
+  "spokoj_1976": {
+    "rating": 7.3,
+    "votes": 0,
+    "rating_fmt": "⭐ 7.3 (Filmweb)",
+    "year": 1976,
+    "imdb_id": null,
+    "awards": ""
+  },
+  "szczepionki i ludzie_2022": {
+    "rating": 6.0,
+    "votes": 0,
+    "rating_fmt": "⭐ 6.0 (IMDb)",
+    "year": 2022,
+    "imdb_id": "tt22873980",
+    "awards": ""
+  },
+  "dinozaury alaski_2022": {
+    "rating": 7.4,
+    "votes": 0,
+    "rating_fmt": "⭐ 7.4 (IMDb)",
+    "year": 2022,
+    "imdb_id": "tt15801862",
+    "awards": ""
+  },
+  "deptak_2022": {
+    "rating": 7.1,
+    "votes": 0,
+    "rating_fmt": "⭐ 7.1 (Filmweb)",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": ""
+  },
+  "gdzie jestes bernadette_2019": {
+    "rating": 6.5,
+    "votes": 0,
+    "rating_fmt": "⭐ 6.5 (FW 6.5 / IMDb 6.5)",
+    "year": 2019,
+    "imdb_id": "tt2365580",
+    "awards": ""
+  },
+  "oszukac przeznaczenie 4_2009": {
+    "rating": 5.3,
+    "votes": 0,
+    "rating_fmt": "⭐ 5.3 (FW 5.4 / IMDb 5.1)",
+    "year": 2009,
+    "imdb_id": "tt1144884",
+    "awards": ""
+  },
+  "nie pozwole ci odejsc_2022": {
+    "rating": 6.0,
+    "votes": 0,
+    "rating_fmt": "⭐ 6.0 (Filmweb)",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": ""
+  },
+  "hellraiser wyslannik piekiel 2_1988": {
+    "rating": 6.5,
+    "votes": 0,
+    "rating_fmt": "⭐ 6.5 (FW 6.5 / IMDb 6.4)",
+    "year": 1988,
+    "imdb_id": "tt0095294",
+    "awards": ""
+  },
+  "krwawe halloween_2016": {
+    "rating": 5.4,
+    "votes": 0,
+    "rating_fmt": "⭐ 5.4 (FW 5.3 / IMDb 5.5)",
+    "year": 2016,
+    "imdb_id": "tt4281724",
+    "awards": ""
+  },
+  "sprzymierzeni_2016": {
+    "rating": 7.1,
+    "votes": 175000,
+    "rating_fmt": "⭐ 7.1 (175k)",
+    "year": 2016,
+    "awards": "Nominacja do Oscara za kostiumy.",
+    "awards_badges": "✨ Nom. do Oscara",
+    "awards_bonus": 3.5
+  },
+  "czas wojny_2011": {
+    "rating": 7.2,
+    "votes": 160000,
+    "rating_fmt": "⭐ 7.2 (160k)",
+    "year": 2011,
+    "awards": "6 nominacji do Oscara.",
+    "awards_badges": "✨ Nom. do Oscara",
+    "awards_bonus": 3.5
+  },
+  "na twoim miejscu_2023": {
+    "rating": 5.9,
+    "votes": 6000,
+    "rating_fmt": "⭐ 5.9 (6k)",
+    "year": 2023,
+    "awards": ""
+  },
+  "krol zycia_2015": {
+    "rating": 5.5,
+    "votes": 8500,
+    "rating_fmt": "⭐ 5.5 (8k)",
+    "year": 2015,
+    "awards": ""
+  },
+  "straszny film 4_2006": {
+    "rating": 5.1,
+    "votes": 130000,
+    "rating_fmt": "⭐ 5.1 (130k)",
+    "year": 2006,
+    "awards": ""
+  },
+  "taxi 2_2000": {
+    "rating": 6.5,
+    "votes": 95000,
+    "rating_fmt": "⭐ 6.5 (95k)",
+    "year": 2000,
+    "awards": ""
+  },
+  "dzika argentyna kraina wod_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Na północy Argentyny słodka woda podtrzymuje życie i decyduje o różnorodności i bogactwie przyrody. Symbolem regionu są wodospady Iguazu, jeden z cudów natury. Co sekundę spada tu 6 mln litrów wody.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "odyseja wilka_2018": {
+    "rating": 7.2,
+    "votes": 22,
+    "rating_fmt": "⭐ 7.2 (22)",
+    "year": 2018,
+    "imdb_id": null,
+    "awards": "Losy wypędzonego ze stada młodego wilka, który musi sam przetrwać w świecie opanowanym przez człowieka. Opuszczony samiec przemierza ponad 3 600 km w 11 krajach w poszukiwaniu bezpiecznego miejsca.  Wypędzony z watahy młody wilk Slava musi stawić czoła losowi i przetrwać w świecie, w którym rządzi człowiek. Napędzany głodem i strachem przemierza pół Europy. Rozwój cywilizacji znacznie utrudnia mu drogę. Wycinka lasów, autostrady, miasta i wsie stanowią czasem barierę nie do przejścia. Jednak chęć znalezienia własnego terytorium i założenia rodziny biorą górę nad lękiem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "fuzja jadrowa energia przyszlosci_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "W 2022 roku doszło do przełomu w kontrolowanej fuzji laserowej: po raz pierwszy udało się zainicjować reakcję syntezy jądrowej, w której energia uzyskana z procesu przewyższa energię użytych laserów.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "nasz premier tadeusz mazowiecki_2025": {
+    "rating": 3.0,
+    "votes": 3,
+    "rating_fmt": "⭐ 3.0 (3)",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Historia Tadeusza Mazowieckiego ukazana przez pryzmat wspomnień jego rodziny, przyjaciół, współpracowników oraz politycznych oponentów. Opowieść wzbogacają archiwalne materiały i pamiątki.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "nasi niewidzialni wrogowie_2019": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2018,
+    "imdb_id": null,
+    "awards": "Naukowcy tłumaczą, skąd wziął się powrót groźnych mikrobów. Wskazują na globalne ocieplenie, współczesny styl życia i mutacje genetyczne tych nieproszonych gości. Ludzkość stoi przed trudnym zadaniem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kofun tajemnice japonskich grobowcow_2025": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Neapolitański archeolog Daniele Petrella kieruje misją mającą na celu zbadanie kofunów - ogromnych grobowców w kształcie dziurki od klucza, w których w starożytności chowano japońskich cesarzy.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "tajemnica lema_2021": {
+    "rating": 6.9,
+    "votes": 59,
+    "rating_fmt": "⭐ 6.9 (59)",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Stanisław Lem okupację spędził we Lwowie. Kilka razy otarł się o śmierć, lecz nigdy nie wracał do wojennego koszmaru. Eksperci wysuwają hipotezę, że trauma zaważyła na jego twórczości.  Biograficzny film dokumentalny o wybitnym pisarzu science-fiction, [person=75583]Stanisławie Lemie[/person], opowiedziany z perspektywy wojennych losów pisarza. O koszmarze lat okupacyjnych Lwowa [person=75583]Lem[/person] milczał, a przeżył wiele, kilkukrotnie ocierając się o śmierć. Wiele autobiograficznych wątków autor przemycił w swoich książkach.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "przechwycone": {
+    "rating": 7.7,
+    "votes": 491,
+    "rating_fmt": "⭐ 7.7 (491)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Zniszczenia na Ukrainie ukazane w długich ujęciach. Telefony żołnierzy do rodzin odsłaniają równoległy świat. Dźwięk i obraz tworzą sugestywny kontrast.  Najgłośniejszy ukraiński dokument roku, który trzeba zobaczyć w kinie. Nagrodzony m.in. na Berlinale, Krakowskim Festiwalu Filmowym i WATCH DOCS. Mimo że nie pada w nim ani jeden strzał, nie widać rannych, czołgów ani eksplozji, jego twórcom udało się dotrzeć do istoty tego konfliktu. Długie perfekcyjnie kadrowane ujęcia pokazują księżycowe krajobrazy i wybebeszone wnętrza mieszkań, do których dotarł w 2022 roku „Ruski Mir”. Absurd i bestialstwo wojny odsłaniają sami okupanci: warstwę dźwiękową tworzą wyłącznie przechwycone przez ukraiński wywiad rozmowy rosyjskich żołnierzy, relacjonujących rodzinom swoje wojenne przeżycia. Odważny filmowy eksperyment, w którym dźwięk i obraz wzajemnie wzmacniają swój przekaz, bezlitośnie ujawnia stan rosyjskiego społeczeństwa przeżartego toksyczną propagandą. Takiego filmu o wojnie w Ukrainie jeszcze nie było.",
+    "awards_badges": "🌴 Złota Palma / Lew / Niedźwiedź",
+    "awards_bonus": 9.5
+  },
+  "portrety van gogh prawdziwa historia odkrycie kolorow_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Fascynująca podróż śladami Vincenta van Gogha. Ekipa odwiedza historyczne prowincje i miasta Europy, gdzie powstawały dzieła artysty. Ukazuje miejsca, które ukształtowały jego wrażliwość.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mulier fortis kobieta mezna_2022": {
+    "rating": 6.6,
+    "votes": 10,
+    "rating_fmt": "⭐ 6.6 (10)",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Losy Zofii Kossak-Szatkowskiej, uhonorowanej odznaczeniem Sprawiedliwego Wśród Narodów Świata. Twórcy opowiadają m.in. o jej działalności dla Delegatury Rządu Emigracyjnego na Kraj.  Dokument jest opowieścią o fenomenie kobiety, która jawi się nam jako \"mulier fortis\" - kobieta mężna. W filmowym portrecie pisarki [person=2451662]Zofii Kossak-Szczuckiej[/person] (II voto Szatkowska) poznamy lepiej jej osobowość, wartość dzieła i życia doświadczonego zarówno miłością jak i cierpieniem. Film o [person=2451662]Zofii Kossak[/person] jest próbą innego spojrzenia na niezwykłą osobowość tej kobiety, wpisanej w wielką historię, ale i zwyczajność życia w międzywojniu i współczesności.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kennedy sinatra i mafia_2023": {
+    "rating": 7.3,
+    "votes": 15,
+    "rating_fmt": "⭐ 7.3 (15)",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Opowieść o przyjaźni Johna F. Kennedy'ego oraz Franka Sinatry, dwóch ikon Ameryki lat 60. Poznali się w prowadzonym przez mafię hotelu Sands w Las Vegas. Dokument pokazuje polityczne zakulisowe gry.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "przyczyny upadku cywilizacji majow_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Cywilizacja Majów osiągnęła szczyt w rozwoju astronomii, matematyki czy sztuki. Naukowcy badają przyczyny jej upadku. Wykorzystują zaawansowane technologie i symulacje.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "anna od pamieci_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Anna Odi pracuje w Dziale Zbiorów Muzeum Pamięci Auschwitz-Birkenau. Od dzieciństwa miejsce to było jej domem. Jej życie to misja nieustannego przypominania o historii i ofiarach obozu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "patrze na ciebie marysiu_1999": {
+    "rating": 6.5,
+    "votes": 2619,
+    "rating_fmt": "⭐ 6.5 (3k)",
+    "year": 1999,
+    "imdb_id": null,
+    "awards": "Udany debiut reżyserski Łukasza Barczyka.  Michał Okrężny - na pozór spokojny i opanowany psychiatra i Marysia Orzechowska (Maja Ostaszewska) miła i ładna dziewczyna są parą. Choć Michał nie decyduje się jeszcze na ślub, ponieważ twierdzi, że jeszcze nie dorósł do tej decyzji to oboje bardzo się kochają. Marysia zachodzi jednak w ciaże, a Michał prosi ją o rękę. W tym samym czasie Michał leczy słynnego aktora, poprzez studiowanie jego depresji, problemów miłosnych sam popada w depresje i którejś nocy oświadcza Marysi, że nie chce się z nią ożenić, ani mieć dziecka. Miłość jednak jest większa i para decyduję się na ślub. Michał przed ślubem popada w kompletną depresję nerwową. Marysia jest załamana. Jeden z najlepszych polskich filmów amatorskich, pełen emocji. Bardzo dobry obraz psychologiczny postaci.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "milosc w chmurach_2017": {
+    "rating": 4.3,
+    "votes": 15,
+    "rating_fmt": "⭐ 4.3 (15)",
+    "year": 2014,
+    "imdb_id": null,
+    "awards": "Niezależna stewardesa Charlotte (Jasmin Gerat) nie planuje małżeństwa ani zakładania rodziny. Gdy poznaje Klausa (Oliver Mommsen), jej życie zaczyna się komplikować.  Marzący o karierze reżysera filmowego Gu ([person=1803905]Chen He[/person]) poznaje przez aplikację w telefonie młodą i piękną modelkę Xiaoxi ([person=823173]Angelababy[/person]). W tym samym czasie w podobny sposób jego dobry przyjaciel A-Gua nawiązuje znajomość z kobietą pragnącą zostać aktorką. Wszystko układa się po myśli przyjaciół, do momentu gdy A-Gua poznaje Gu z wpływowym inwestorem zainteresowanym sfinansowaniem filmu. Jego wymagania artystyczne wobec produkcji są jednak sprzeczne z wizją przyjaciół, co pociąga za sobą szereg nieoczekiwanych wydarzeń.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "morderstwa we francji lorraine_2019": {
+    "rating": 6.0,
+    "votes": 2,
+    "rating_fmt": "⭐ 6.0 (2)",
+    "year": 2019,
+    "imdb_id": null,
+    "awards": "Porucznik Muller (Stéphane Bern) bada sprawę ciała znalezionego w starej fortecy. Odkrywa, że jest spokrewniony z pomagającą mu studentką.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "morderstwa we francji vercors_2019": {
+    "rating": 5.2,
+    "votes": 23,
+    "rating_fmt": "⭐ 5.2 (23)",
+    "year": 2019,
+    "imdb_id": null,
+    "awards": "Ginie pasterz. Cała wieś podejrzewa byłą nauczycielkę, na którą mężczyzna złożył donos o romansie z nastolatkiem, co zrujnowało jej karierę i życie. Śledztwo ujawnia sekrety pozostałych mieszkańców.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "leben_2023": {
+    "rating": 5.6,
+    "votes": 241,
+    "rating_fmt": "⭐ 5.6 (241)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Studentka (Zofia Justyńska) przeprowadza się do mieszkania babci. Początkowo irytuje ją współlokatorka, a osiedle z dzieciństwa wydaje się przygnębiające. To się zmienia, gdy odnawia stare znajomości.  Niezborna życiowo i emocjonalnie studentka Olga wprowadza się do mieszkania po babci. Początkowo postrzega swój los jako przegrany – współlokatorka działa jej na nerwy, a znane jej z dzieciństwa osiedle wydaje się być depresyjną dziurą. Przypadkowa wizyta w lokalnym barze \"Astoria\" uświadamia jej, że osiedle zamieszkuje dziwna, ale i fascynująca społeczność. Spotkanie z dawnymi przyjaciółmi sprawia, że rodzi się w niej nadzieja na pierwsze w życiu prawdziwe zadomowienie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "samochody przywodcow_2018": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2018,
+    "imdb_id": null,
+    "awards": "Przegląd najsłynniejszych i najbardziej ekstrawaganckich aut należących do ważnych postaci. Widzowie ujrzą m.in. samochody Charles'a de Gaulle'a i Donalda Trumpa.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "prawdziwa historia komunizmu_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Twórcy filmu przybliżają dzieje komunizmu. Ukazują idealistyczne wizje i realia życia pod rządami dyktatorów. Dociekają, dlaczego ta ideologia zyskuje popularność współcześnie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "twoj sasiad kanibal_2023": {
+    "rating": 6.5,
+    "votes": 4,
+    "rating_fmt": "⭐ 6.5 (4)",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Makabryczna historia informatyka Armina Meiwesa, zwanego potworem z Rotenburga. W 2001 roku poznał on osobę, która zgodziła się zaspokoić jego kanibalistyczne obsesje.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "od ucha do ucha rondo_1966": {
+    "rating": 4.8,
+    "votes": 0,
+    "rating_fmt": "⭐ 4.8 (FW 5.1 / IMDb 4.5)",
+    "year": 1966,
+    "imdb_id": "tt0060913",
+    "awards": "Film wycinankowy Mirosława Kijowicza, którego osnowę stanowią rozmyślania nad filiżanką kawy. To krótka, refleksyjna opowieść o frustracji.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "od ucha do ucha czarne czy biale_1967": {
+    "rating": 6.8,
+    "votes": 0,
+    "rating_fmt": "⭐ 6.8 (Filmweb)",
+    "year": 1967,
+    "imdb_id": null,
+    "awards": "Opowieść o poszukiwaniach prawdziwej miłości i jej odnalezieniu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "rewia chaplina_1959": {
+    "rating": 7.4,
+    "votes": 275,
+    "rating_fmt": "⭐ 7.4 (275)",
+    "year": 1959,
+    "imdb_id": null,
+    "awards": "Połączenie trzech filmów Charliego Chaplina - \"Pieskie życie\", \"Charlie żołnierzem\" oraz \"Pielgrzym\", uzupełnione o nowe sceny.  Trzy filmy Chaplina z okresu niemego: \"Pieskie życie\",\"Charlie żołnierzem\" i \"Pielgrzym\" połączone w jeden jeszcze przez samego mistrza i wzbogacone o nowe sceny.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zabawka_1976": {
+    "rating": 7.1,
+    "votes": 1359,
+    "rating_fmt": "⭐ 7.1 (FW 6.9 / IMDb 7.4)",
+    "year": 1976,
+    "imdb_id": "tt0074720",
+    "awards": "Perrin odkrywa, że jego mały prześladowca jest bardzo samotnym chłopcem.  Niełatwe jest życie dziennikarza, szczególnie kiedy jest się na tropie ważnego śledztwa, a szef zleca opiekę nad synem, który do grzecznych chłopców nie należy. Teraz, jako nowa zabawka szefa, François jest zdeterminowany by zakończyć maskaradę, na którą przystał i ukazać światu prawdziwe oblicze tyrana, dla którego pracuje.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "o psie ktory jezdzil koleja_2023": {
+    "rating": 6.0,
+    "votes": 6312,
+    "rating_fmt": "⭐ 6.0 (FW 6.2 / IMDb 5.8)",
+    "year": 2023,
+    "imdb_id": "tt27695172",
+    "awards": "W życiu chorej 10-latki pojawia się psi miłośnik kolei. Między nią a czworonogiem rodzi się więź.  Życie Zuzi ([person=2855793]Liliana Zajbert[/person]), której tata Piotr ([person=398]Mateusz Damięcki[/person]) pracuje na kolei, zmienia się nie do poznania, kiedy wkracza w nie Lampo – niezwykły pies-podróżnik. Wyjątkowy owczarek, którego wyprawy pociągiem są sensacją i hitem internetu, z miejsca zostaje najlepszym przyjacielem mającej problemy z sercem dziewczynki. Niestety, zazdrosny o sławę Lampo Dyrektor ([person=42587]Adam Woronowicz[/person]) robi wszystko, żeby pozbyć się psa ze swojej stacji. Kiedy mu się to udaje, rozdzielona z ukochanym pupilem Zuzia zaczyna chorować. Chociaż wszyscy starają się jej pomóc, szybko staje się jasne, że tylko bliskość i przyjaźń czworonoga mogą być lekarstwem, którego dziewczynka tak bardzo potrzebuje.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "lila kiejzik portret_2022": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Lila Kiejzik to reżyserka teatru polskiego na Litwie oraz animatorka kultury, a także organizatorka międzynarodowych festiwali teatralnych. To także pedagożka, która wychowała kilka pokoleń aktorów.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "jerozolima budowniczowie swietego miasta_2022": {
+    "rating": 6.6,
+    "votes": 8,
+    "rating_fmt": "⭐ 6.6 (8)",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Opowieść o fascynującej architekturze i dziejach Jerozolimy. Pielgrzymi i turyści podziwiają w mieście m.in. Kopułę na Skale, meczet Al­-Aksa i Bazylikę Grobu Świętego.  Przekrojowy dokument o architekturze i dziejach Jerozolimy. Jak wzniesiono jej najsłynniejsze budowle? Niewiele jest miast o tak długiej, bogatej i burzliwej historii. Wielokrotnie niszczona przez najeźdźców i odbudowywana, Jerozolima zmieniała swe oblicze. Obecnie miliony turystów i pielgrzymów przybywają tu, by zobaczyć Wzgórze Świątynne, Kopułę na Skale, meczet Al-Aksa i Bazylikę Grobu Świętego. Jak powstały najsłynniejsze budowle Jerozolimy i jak zmieniały się na przestrzeni wieków?",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "lalka_1968": {
+    "rating": 7.7,
+    "votes": 36386,
+    "rating_fmt": "⭐ 7.7 (36k)",
+    "year": 2026,
+    "imdb_id": null,
+    "awards": "Dzieje niespełnionej miłości kupca do arystokratki.  Warszawa końca XIX wieku. Serce Stanisława Wokulskiego ([person=42489]Marcin Dorociński[/person]) owładnięte jest szaloną miłością do Izabeli Łęckiej ([person=2638609]Kamila Urzędowska[/person]). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki ([person=253]Marek Kondrat[/person]), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "filip_2022": {
+    "rating": 7.0,
+    "votes": 37923,
+    "rating_fmt": "⭐ 7.0 (FW 7.0 / IMDb 6.9)",
+    "year": 2022,
+    "imdb_id": "tt15460742",
+    "awards": "Mający żydowskie korzenie Polak próbuje odnaleźć się w nazistowskich Niemczech.  Frankfurt 1943. Tytułowy bohater Filip jest typowym kosmopolitą i niezdolnym do głębszych uczuć uwodzicielem. W Polsce stracił całą rodzinę. Sam będąc w sercu nazistowskich Niemiec, ukrywa żydowskie pochodzenie i niejednokrotnie wymyka się śmierci. Pracuje jako kelner w restauracji ekskluzywnego hotelu i beztrosko korzysta z uroków życia otoczony luksusem, pięknymi kobietami i przyjaciółmi z całej Europy. Jednak gdy wojna zaczyna zbierać krwawe żniwo wśród najbliższych mu osób, ten misternie zbudowany świat, który go otacza, rozsypuje się jak domek z kart...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "moj biegun_2013": {
+    "rating": 5.8,
+    "votes": 25670,
+    "rating_fmt": "⭐ 5.8 (FW 6.2 / IMDb 5.4)",
+    "year": 2013,
+    "imdb_id": "tt1959487",
+    "awards": "Niepełnosprawny nastolatek walczy o swoje marzenia. Poruszająca historia Jaśka Meli.  „Mój biegun” to prawdziwa historia [person=673257]Jana Meli[/person], najmłodszego w historii zdobywcy dwóch biegunów, a zarazem pierwszej niepełnosprawnej osoby, która dokonała takiego wyczynu. Zanim jednak do tego doszło, jego rodzina musiała poradzić sobie z serią tragicznych wydarzeń. Śmierć młodszego syna, a po kliku latach – ciężki wypadek nastoletniego Jaśka. To historia, w której rodzina odnajduje na nowo wiarę i miłość. Historia chłopca, który walcząc o powrót do normalnego życia, odnajduje w sobie siłę charakteru obcą niejednemu dorosłemu. To przepiękna opowieść o ludziach, którzy trwają razem pomimo tragedii i uczą się bolesne wydarzenia przekuwać w zwycięstwo.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "widoki z lotu ptaka_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Fascynujące krajobrazy często pozostają niedostępne. Dzięki dronom, helikopterom i balonom możemy podziwiać niesamowite cuda natury, takie jak lodowce w Alpach czy lasy deszczowe na Borneo.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pociagiem do wodospadow wiktorii_2025": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Podróż koleją przez Tanzanię, Zambię i Zimbabwe. Wędrówka rozpoczyna się w Dar es Salaam. Filmowcy obserwują codzienność mieszkańców miasta. Następnie ruszają w dalszą drogę aż do Wodospadów Wiktorii.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "paul newman niespokojny duch_2022": {
+    "rating": 6.6,
+    "votes": 58,
+    "rating_fmt": "⭐ 6.6 (58)",
+    "year": 2020,
+    "imdb_id": null,
+    "awards": "Charyzmatyczny Paul Newman stał się ucieleśnieniem ideału gwiazdora Hollywood. Wszechstronność talentu pokazał w takich filmach jak \"Nieugięty Luke\", \"Żądło\" czy \"Kolor pieniędzy\".",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "ciemna strona everestu": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": null,
+    "imdb_id": null,
+    "awards": "Opowieści o alpinistach, którzy gotowi są ryzykować życie lub bezpieczeństwo towarzyszy, aby dotrzeć na szczyt. Filmy z akcji ratunkowych.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "poswiecilem wszystko zycie poswiecilem jerzy stuhr_2024": {
+    "rating": 6.9,
+    "votes": 15,
+    "rating_fmt": "⭐ 6.9 (15)",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Portret wybitnego aktora, reżysera, rektora PWST w Krakowie. O Jerzym Stuhrze opowiedzą jego bliscy oraz ludzie, z którymi pracował, m.in. Anna Dymna, Juliusz Machulski i Olgierd Łukaszewicz.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kolory natury_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Dokument poświęcony roli barw w świecie przyrody. Ukazuje, jak definiują one otaczający nas świat, czyniąc go różnorodnym. Zarówno te subtelne, jak i intensywne, są kluczowe dla ludzi i zwierząt.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wysle wam kartke_2014": {
+    "rating": 7.6,
+    "votes": 106,
+    "rating_fmt": "⭐ 7.6 (106)",
+    "year": 2014,
+    "imdb_id": null,
+    "awards": "Ada marzy o podróży do Nowego Jorku, występach na scenie i udziale w akcjach charytatywnych na Czarnym Lądzie. Codzienność chorej na nowotwór nastolatki ograniczają ściany szpitalnej sali.  Film \"Wyślę wam kartkę\" to opowieść o niezwykłej 16-letniej dziewczynie, Adzie, która w przyszłości chce zamieszkać w Nowym Jorku, grać tam koncerty, adoptować dzieci i wozić jedzenie do Afryki. Tymczasem jej życie to cztery ściany sali na zamkniętym oddziale szpital dziecięcego, chemioterapia, dźwięk pompy, tęsknota za nieobecnym ojcem, któremu chce tę nieobecność wybaczyć, troska o mamę-przyjaciółkę, której \"dobrze wychodzi bycie mamą i tatą\", i z którą Ada, z tego zamkniętego oddziału, chciałaby jak najszybciej uciec. Film jest też próbą zrozumienia dlaczego dziecko musi cierpieć. Jak samo dziecko doświadcza cierpienia?\n\nJak je przyjmuje? Jak je rozumie? Jak wytłumaczyć dziecku przymus cierpienia? Jak dziecko organizuje sobie swój mikroświat, kiedy musi się zatrzymać w takim miejscu? Jak zmienia się życie dziecka i dorosłego w takiej sytuacji? Czy mimo obecności mamy i taty, cudownych lekarzy, sióstr i braci, człowiek, także ten mały, z bólem nie jest trochę sam? Bo to mimo wszystko bardzo osobiste doświadczenie tych małych-wielkich bohaterów, którzy tak wcześnie musieli zrozumieć, choć nikt im nie wyjaśnił i nikt nie przygotował.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "dzika argentyna kraina mistrzow przetrwania_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Argentyna zaskakuje różnorodnością przyrody. Wśród pustyń, wysokich gór oraz bezkresnej pampy życie przybiera rozmaite formy, a każdy dzień oznacza tutaj walkę z trudnymi warunkami.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "dzika argentyna niebezpieczne wody_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Ósmy co do wielkości kraj świata charakteryzuje się różnorodnością klimatyczną - od subtropikalnej północy po polarne południe. U jego wybrzeży można spotkać liczne walenie biskajskie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "magia iranskiego jedwabiu_2022": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Irańska praktyka tkania jedwabiu sięga 2500 lat. Dwoje artystów postanowiło wskrzesić tradycję i ocalić używane przez dawnych rzemieślników perskie wzory przed zapomnieniem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zycie lasu bogactwo przyrodnicze_2017": {
+    "rating": 7.4,
+    "votes": 47,
+    "rating_fmt": "⭐ 7.4 (47)",
+    "year": 2017,
+    "imdb_id": null,
+    "awards": "Różnorodność w przyrodzie utrzymuje równowagę. Organizmy tworzące środowisko łączy siatka zależności; rośliny nie mogą istnieć bez zwierząt, a zwierzęta - bez roślin. Doskonale widać to w lesie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "ugotowany_2015": {
+    "rating": 6.6,
+    "votes": 131076,
+    "rating_fmt": "⭐ 6.6 (FW 6.6 / IMDb 6.6)",
+    "year": 2015,
+    "imdb_id": "tt2503944",
+    "awards": "Były szef kuchni powraca do branży. Zamierza zdobyć prestiżowe wyróżnienie.  Adam Jones ([person=57074]Bradley Cooper[/person]) to charyzmatyczny szef kuchni, który w młodym wieku zyskał rozgłos jako guru paryskich restauratorów. Podążał własną ścieżką i tworzył intrygujące połączenia smaków. Nie udźwignął jednak ciężaru sławy, zniknął z pierwszych stron gazet i rozpłynął się w powietrzu. Teraz, wolny od wszelkich uzależnień, próbuje swoich sił w sercu kulinarnego Londynu. Gromadzi doborową załogę, by stworzyć najlepszą restaurację na świecie. Czy, kierując grupą utalentowanych ekscentryków, zdoła wspiąć się na kulinarny Olimp? Czy uczucie do pięknej Helene ([person=138470]Sienna Miller[/person]) nie przeszkodzi mu w zdobyciu upragnionej, trzeciej gwiazdki Michelin?",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "obwiniony_2023": {
+    "rating": 5.9,
+    "votes": 204,
+    "rating_fmt": "⭐ 5.9 (FW 5.7 / IMDb 6.2)",
+    "year": 2023,
+    "imdb_id": "tt12648266",
+    "awards": "Na stacji kolejowej dochodzi do zamachu bombowego. Harri (Chaneil Kular) zostaje błędnie uznany za terrorystę. Musi oczyścić się z zarzutów.  Londyn. Harri ([person=2649548]Chaneil Kular[/person]) podróżuje pociągiem do Yorkshire, gdzie zamierza zaopiekować się psem swoich rodziców wyjeżdżających na wakacje. Niespodziewanie dowiaduje się, żę na stacji, z której odjechał, doszło do zamachu bombowego i wiele osób poniosło śmierć. Po tym, jak obrazy z monitoringu zaczynają krążyć w Internecie, filmik z jego wizerunkiem staje się viralem, gdyż zostaje błędnie zidentyfikowany jako terrorysta. Wywołuje to falę gniewnych, pełnych nienawiści wiadomości skierowanych do niego. Zostaje też ujawniony adres rodziców, gdzie Harri właśnie przebywa, i gdzie śledzi na żywo wszystkie wiadomości zza monitora laptopa. Kiedy groźby śmierci oraz wtragnięcia do domu okazują się realnym zagrożeniem, Harri zmuszony jest do działania...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "odwiedz mnie we snie_1996": {
+    "rating": 6.8,
+    "votes": 843,
+    "rating_fmt": "⭐ 6.8 (843)",
+    "year": 1996,
+    "imdb_id": null,
+    "awards": "Alicja, żona i matka, ginie w wypadku. Trafia w zaświaty, gdzie poznaje prawdę o swojej śmierci.  Ala jest zapracowaną kobietą, która stara się pogodzić pracę i wychowanie dzieci. Pisze bajki, zajmuje się domem. Jest szczęśliwą żoną chirurga. Nie potrafi poradzić sobie z wszystkimi obowiązkami. Pewnego dnia ginie w wypadku. Ala odchodzi do innego świata.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "jak rozpetalem ii wojne swiatowa wsrod swoich_1969": {
+    "rating": 7.9,
+    "votes": 287851,
+    "rating_fmt": "⭐ 7.9 (288k)",
+    "year": 1969,
+    "imdb_id": null,
+    "awards": "Schwytany przez Niemców Franek (Marian Kociniak) zostaje wysłany na front wschodni. Wyskakuje jednak z samolotu. Ląduje ze spadochronem w Polsce.  Film składa się z trzech części. Cz.I - Franek po lepszej imprezie budząc się w pociągu, przypadkowym strzałem \"rozpętuje\" II wojnę światową. Tym \"drobnym wypadkiem\" zaczyna się zwariowana komedia, której akcja rozgrywa się w obozie jenieckim, w Austrii, Jugosławii, Afryce, na lądzie, morzu i w powietrzu. Franuś swoim \"sprytem\" doprowadza do szału Niemców, Jugosłowian, Włochów, a zwłaszcza spokojnego oficera brytyjskiego (świetny Rudzki), doprowadza do kilku buntów, m.in. w Legii Cudzoziemskiej, w armii włoskiej (po zdobyciu ważnego strategicznie obiektu wojskowego). W końcu jednak wygrywa rozpętaną przez siebie wojnę i zdobywa śliczną, choć dość energiczną (lubi używać pałki) dziewczynę (Jędryka).",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "przymierze_2023": {
+    "rating": 7.4,
+    "votes": 33082,
+    "rating_fmt": "⭐ 7.4 (FW 7.3 / IMDb 7.5)",
+    "year": 2023,
+    "imdb_id": "tt4873118",
+    "awards": "Dowódca jednostki walczącej z terrorystami zyskuje nieoczekiwanego sojusznika.  Film opowiada o losach amerykańskiego oddziału stacjonującego w Afganistanie, który wpada w zasadzkę. Z narażeniem własnego życia, lokalnemu przewodnikowi i tłumaczowi Ahmedowi ([person=853193]Dar Salim[/person]) udaje się ocalić od śmierci tylko sierżanta Johna Kinleya ([person=48101]Jake Gyllenhaal[/person]). Po powrocie do domu żołnierz dowiaduje się, że wbrew składanym obietnicom, rząd amerykański odmówił Ahmedowi azylu w Stanach Zjednoczonych. By ocalić jego życie, rzuca wszystko i rusza na samotną misję, chcąc spłacić dług wobec swojego wybawcy.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "ben hur_2016": {
+    "rating": 6.8,
+    "votes": 34971,
+    "rating_fmt": "⭐ 6.8 (FW 7.7 / IMDb 5.7)",
+    "year": 1959,
+    "imdb_id": "tt2638144",
+    "awards": "Pozbawiony majątku i wpływów mężczyzna szykuje odwet na wrogu.  Juda Ben Hur ([person=6126]Charlton Heston[/person]) jest bogatym żydowskim księciem, kupcem z Jerozolimy. Razem z nowym gubernatorem przyjeżdża jego stary przyjaciel Messala ([person=8239]Stephen Boyd[/person]) - dowódca legionów rzymskich. Najpierw przyjaciele cieszą się ze spotkania, potem poróżniają ich poglądy polityczne. Podczas powitalnej parady spada dachówka z dachu Judy i tylko cudem nie kaleczy nowego gubernatora. Chociaż Messala wie, że to był tylko wypadek, wysyła Judę na galery, a jego matkę i córkę do więzienia. Ben Hur przyrzeka zemstę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "podroz do wnetrza ziemi_2008": {
+    "rating": 6.0,
+    "votes": 39393,
+    "rating_fmt": "⭐ 6.0 (FW 6.2 / IMDb 5.8)",
+    "year": 2008,
+    "imdb_id": "tt0373051",
+    "awards": "Tajemnice podziemnego świata.  W ekscytującym filmie przygodowym \"Podróż do wnętrza ziemi\", opartym na klasycznej powieści [person=505581]Juliusza Verne'a[/person] \"Podróż do wnętrza Ziemi\", [person=5137]Brendan Fraser[/person] (\"[film=107996]Miasto gniewu[/film]\", \"[film=678]Mumia[/film]\") występuje w roli profesora nauk przyrodniczych, którego kontrowersyjne hipotezy budzą sprzeciw i kpiny świata naukowego. Tymczasem podczas ekspedycji na Islandię uczony i jego bratanek dokonują sensacyjnego odkrycia, które otwiera im drogę do fantastycznej wędrówki głęboko do wnętrza Ziemi, gdzie odwiedzają światy, o których istnieniu nikt dotychczas nie wiedział i spotykają wiele niezwykłych stworzeń.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "bridget jones 3_2016": {
+    "rating": 6.8,
+    "votes": 142216,
+    "rating_fmt": "⭐ 6.8 (FW 7.1 / IMDb 6.4)",
+    "year": 2016,
+    "imdb_id": "tt1473832",
+    "awards": "Dojrzała singielka zachodzi w ciążę. Nie ma pewności, kto jest ojcem jej dziecka.  Na trzecią filmową część niekończących się miłosnych zawirowań w życiu Bridget Jones fani na całym świecie czekali lata. Laureaci Oscara – [person=3365]Renée Zellweger [/person]i [person=2568]Colin Firth[/person] powracają w kontynuacji ikonicznej komedii o miłosnych i zawodowych przygodach Bridget Jones, autorki najzabawniejszego pamiętnika w historii kina i literatury. Od premiery pierwszej filmowej części minęło 14 lat, Bridget to dziś zupełnie inna kobieta. Dobiega pięćdziesiątki, zamiast szelestu kartek w jej pamiętniku usłyszymy raczej odgłos stukania w klawiaturę laptopa. Tak, Bridget Jones idzie z czasem! Ok, może nie radzi sobie z tym doskonale, bo czas ten wpływa także na jej urodę, ale przy dobrym drinku staje się królową facebooków, instagramów, snapchatów i innych mediów społecznościowych.",
+    "awards_badges": "🏆 Oscar",
+    "awards_bonus": 10.0
+  },
+  "oszukac przeznaczenie 5_2011": {
+    "rating": 5.8,
+    "votes": 66332,
+    "rating_fmt": "⭐ 5.8 (FW 5.7 / IMDb 5.9)",
+    "year": 2011,
+    "imdb_id": "tt1622979",
+    "awards": "Sam ma wizję walącego się mostu. Przekonuje towarzyszy, by uciekli z autobusu. To początek koszmaru.  Nieważne dokąd uciekniesz, nieważnie gdzie się schowasz... nie oszukasz śmierci. W Oszukać przeznaczenie 5 Śmierć jest jak zawsze wszechobecna. Jej moce\nzostają wyzwolone, gdy przeczucie jednego człowieka ratuje grupę robotników od śmierci pod gruzami mostu wiszącego. Przeznaczeniem tych ludzi było nie przetrwać. Teraz w przerażającym wyścigu z czasem, przeklęta grupa gorączkowo próbuje odkryć sposób ucieczki przed złowrogim planem Śmierci.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "sezon na misia 3_2010": {
+    "rating": 5.5,
+    "votes": 12073,
+    "rating_fmt": "⭐ 5.5 (FW 5.9 / IMDb 5.0)",
+    "year": 2010,
+    "imdb_id": "tt1646926",
+    "awards": "Zamiana ról miała być dobrą zabawą, staje się jednak źródłem poważnych problemów.  Boguś, Elliot oraz ich leśni przyjaciele powracają w nowej przezabawnej przygodzie, która tym razem rozgrywa się w wielkim cyrku! Gdy kumple Bogusia nie mogą wziąć udziału w męskiej wyprawie, miś decyduje się wyruszyć na wycieczkę sam. Napotykając na swojej drodze cyrk, Boguś zamienia się miejscami z występującym tam bliźniaczo do niego podobnym grizzly i przejmuje jego rolę w przedstawieniu. Jednak gdy cyrkowcy decydują się na powrót do Rosji, zaczyna się wyścig z czasem, podczas którego Elliot, wiewiór McSquizzy, Pan Kabanos i reszta paczki muszą uratować Bogusia zanim będzie za późno!",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "trzy billboardy za ebbing missouri_2017": {
+    "rating": 8.0,
+    "votes": 249796,
+    "rating_fmt": "⭐ 8.0 (FW 7.9 / IMDb 8.1)",
+    "year": 2017,
+    "imdb_id": "tt5027774",
+    "awards": "Matka ofiary zabójstwa wypowiada prywatną wojnę nieudolnym policjantom.  Małe miasteczko na amerykańskiej prowincji. Od morderstwa córki Mildred Hayes (nagrodzona Oscarem [person=8353]Frances McDormand[/person]) upłynęło kilka miesięcy, a lokalna policja nadal nie wpadła na trop sprawcy. Zdeterminowana kobieta decyduje się na śmiałe posunięcie: wynajmuje trzy tablice reklamowe na drodze wiodącej do miasteczka i maluje na nich prowokacyjny przekaz, skierowany do szanowanego przez lokalną społeczność szefa policji, szeryfa Williama Willoughby’ego (nominowany do Oscara [person=44]Woody Harrelson[/person]). Gdy do akcji wkracza zastępca szeryfa, posterunkowy Dixon ([person=7212]Sam Rockwell[/person]) – niezrównoważony, porywczy maminsynek, któremu zarzuca się zamiłowanie do przemocy – starcie między Mildred Hayes a lokalnymi siłami porządkowymi przeradza się w otwartą wojnę.",
+    "awards_badges": "🏆 Oscar",
+    "awards_bonus": 10.0
+  },
+  "kopciuszek_2021": {
+    "rating": 5.6,
+    "votes": 76770,
+    "rating_fmt": "⭐ 5.6 (FW 6.6 / IMDb 4.4)",
+    "year": 2015,
+    "imdb_id": "tt10155932",
+    "awards": "Ella pasjonuje się projektowaniem sukienek. Marzy, aby prowadzić własny sklep. Spotkanie z księciem Robertem odmienia jej życie.  \"Kopciuszek\" to adresowany do całej rodziny film fabularny inspirowany klasyczną baśnią o tym samym tytule. W najnowszej produkcji Disneya, w reżyserii nominowanego do Oscara [person=12]Kennetha Branagha[/person], zobaczymy jedne z najbardziej intrygujących aktorek współczesnego kina: [person=6495]Cate Blanchett[/person] w roli złej macochy i [person=232]Helenę Bonham Carter[/person] jako dobrą wróżkę. W filmie poznajemy historię Elli, której życie diametralnie zmienia się po niespodziewanej śmierci ojca. Wystawiona na łaskę i niełaskę bezwzględnej macochy i jej dwóch córek, dziewczyna staje się służącą, złośliwie nazywaną Kopciuszkiem…",
+    "awards_badges": "✨ Nom. do Oscara",
+    "awards_bonus": 3.5
+  },
+  "death race wyscig smierci_2008": {
+    "rating": 6.9,
+    "votes": 119692,
+    "rating_fmt": "⭐ 6.9 (120k)",
+    "year": 2008,
+    "imdb_id": null,
+    "awards": "Były rajdowiec, by odzyskać wolność, staje do brutalnej rywalizacji na torze.  Widzowie, śledzący sporty ekstremalne i programy typu reality, są spragnieni coraz bardziej brutalnych widowisk. Największe emocje budzą wyścigi samochodowe organizowane w więzieniach – mordercy i przestępcy nie cofną się przed niczym, gdy nagrodą jest wolność. Podrasowane samochody-monstra, wyposażone w karabiny, miotacze płomieni i wyrzutnie granatów sprawdzają się świetnie w grze o prostych regułach – wygraj 5 wyścigów i bądź wolny albo zgiń na torze. W takie piekło trafia niesłusznie skazany za morderstwo Jansen Ames ([person=6552]Jason Statham[/person]), mistrz wyścigów NASCAR. Szefowa więzienia Warden Hennessey ([person=4771]Joan Allen[/person]) stawia sprawę jasno. Udział w wyścigu śmierci to dla Jansena jedyna droga do wolności. Jego największym przeciwnikiem będzie Machine Gun Joe ([person=59597]Tyrese Gibson[/person]), człowiek, który dla wygranej nie cofnie się przed niczym.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "life_2017": {
+    "rating": 6.4,
+    "votes": 91086,
+    "rating_fmt": "⭐ 6.4 (FW 6.3 / IMDb 6.6)",
+    "year": 2017,
+    "imdb_id": "tt5442430",
+    "awards": "Astronauci odkrywają istnienie groźnego organizmu. Szukają sposobu, by przetrwać w kosmosie.  Film opowiada historię sześcioosobowej ekipy kosmonautów Międzynarodowej Stacji Kosmicznej na chwilę przed ogłoszeniem światu przełomowego dla ludzkości odkrycia: pierwszego dowodu życia na Marsie. Badania, jakie prowadzą, będą miały jednak nieoczekiwane konsekwencje. Forma życia, którą odkrywają, jest bardziej inteligenta niż ktokolwiek przypuszczał.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "richie milioner_1994": {
+    "rating": 5.6,
+    "votes": 28761,
+    "rating_fmt": "⭐ 5.6 (FW 5.6 / IMDb 5.5)",
+    "year": 1994,
+    "imdb_id": "tt0110989",
+    "awards": "Rodzice młodego dziedzica ogromnej fortuny zostają porwani.  Panicz Richie jest spadkobiercą fortuny liczącej 70 mln. dolarów. Posiada wszystko co może zamarzyć mały chłopiec i co można kupić za pieniądze. Po za tym ma troskliwego i wyrozumiałego ojca, który świata poza nim nie widzi i wiernego psa o imieniu Dollar. Ale jak się okazuje świat jak z bajki nie trwa wiecznie. Pewien pracownik w firmie ojca Richie'a pragnie zgarnąć cały majątek swego pracodawcy i w tym celu obmyśla plan pozbycia się wszystkich członków rodziny. Chłopcu z pomocą przychodzą koledzy, dzięki którym Richie odkrywa, że prawdziwa przyjaźń jest najcenniejszym skarbem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "aquaman_2018": {
+    "rating": 6.6,
+    "votes": 116998,
+    "rating_fmt": "⭐ 6.6 (FW 6.5 / IMDb 6.8)",
+    "year": 2018,
+    "imdb_id": "tt1477834",
+    "awards": "Los ludzkości zależy od wyniku pojedynku niezwykłych przyrodnich braci.  Aquaman, który jest legendą od ponad 70 lat, to Król Siedmiu Mórz. Misją, tego niechętnie sprawującego rządy na Atlantydzie władcy, jest ochrona całego świata. Miota się on jednak między światem ponad powierzchnią wód nieustannie pustoszącym morza, a mieszkańcami Atlantydy dążącymi do wszczęcia buntu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "transformers ostatni rycerz_2017": {
+    "rating": 5.5,
+    "votes": 58251,
+    "rating_fmt": "⭐ 5.5 (FW 5.8 / IMDb 5.2)",
+    "year": 2017,
+    "imdb_id": "tt3371366",
+    "awards": "Mieszkańcy Ziemi podejmują walkę z maszynami.  \"Transformers: Ostatni Rycerz\" rozbija rdzeń mitu o tej popularnej serii, redefiniując zarazem pojęcie bohatera. Ludzie i Transformery toczą ze sobą wojnę, Optiums Prime odszedł. Klucz do ocalenia naszej przyszłości jest zakopany w sekretach przeszłości, w zapomnianej historii obecności Transformerów na Ziemi. Uratowanie ludzkości leży w rękach nieoczywistych sprzymierzeńców: Cade'a Yeagera ([person=288]Mark Wahlberg[/person]), Bumblebee oraz brytyjskiego lorda (sir [person=48]Anthony Hopkins[/person]) i oksfordzkiej profesorki ([person=847543]Laura Haddock[/person]).",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wygrac ze smiercia_1990": {
+    "rating": 6.5,
+    "votes": 18398,
+    "rating_fmt": "⭐ 6.5 (FW 7.0 / IMDb 5.8)",
+    "year": 1990,
+    "imdb_id": "tt0099739",
+    "awards": "Policjant budzi się ze śpiączki. Przygotowuje zemstę na zabójcach żony.  Skorumpowany kalifornijski policjant i wynajęci przez niego płatni mordercy są przekonani, że zabili Masona Storma, detektywa z Los Angeles. Jednak wkrótce odkrywają, jak bardzo się mylili - bo Storm jest facetem, którego niełatwo zabić. Storm spędził siedem lat w szpitalu na oddziale chorych na śpiączkę, ale teraz już nie śpi i ma przed sobą tylko jeden cel - zemstę. Z pomocą oddanej pielęgniarki (Kelly Le Brock) przygotowuje się do czekającego go zadania. Doskonali swoje umiejętności strzeleckie oraz walki wręcz. Wykorzystuje też wschodnie metody leczenia, aby odzyskać dawną siłę. Potem prezentuje z furią cały swój kunszt. \r\n\r\n[opis dystrybutora do wydania DVD]",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "cos w wodzie_2024": {
+    "rating": 3.8,
+    "votes": 1493,
+    "rating_fmt": "⭐ 3.8 (FW 3.6 / IMDb 4.1)",
+    "year": 2024,
+    "imdb_id": "tt22863968",
+    "awards": "Grupę koleżanek, które przybyły na Karaiby z okazji wesela, czeka starcie z rekinami.  Cierpiąca na traumę po dramatycznym wydarzeniu z przeszłości Meg ([person=2733984]Hiftu Quasem[/person]) długo zastanawia się, czy wziąć udział w ekskluzywnym, organizowanym w rajskich plenerach ślubie koleżanki Lizzie ([person=2441466]Lauren Lyle[/person]). Ostatecznie jednak przybywa na Karaiby, mając za towarzyszki Cam ([person=3127037]Nicole Rieko Setsuko[/person]), Ruth ([person=3127038]Ellouise Shakespeare-Hart[/person]) oraz dawno niewidzianą przyjaciółkę Kaylę ([person=2902735]Natalie Mitson[/person]). Kiedy kobiety postanawiają udać się w samotny rejs łodzią, nie przeczuwają, że idylliczna podróż zmieni się w zaciętą walkę o przetrwanie. Wkrótce, zdane tylko na siebie i dryfujące na otwartym morzu, będą zmuszone zmagać się nie tylko ze skrajnym wycieńczeniem, ale też atakami rekinów-morderców. Czy mają jakikolwiek szanse w starciu z drapieżnikami, z których natura uczyniła prawdziwe maszyny do zabijania?",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "gang wiewiora_2014": {
+    "rating": 5.9,
+    "votes": 13116,
+    "rating_fmt": "⭐ 5.9 (FW 6.0 / IMDb 5.7)",
+    "year": 2014,
+    "imdb_id": "tt1821658",
+    "awards": "Zawadiacki gryzoń zostaje wygnany do miasta. By przetrwać zimę, planuje skok na sklep z orzechami.  Komedia do chrupania dla całej rodziny. Opowieść o wiewiórze, który organizuje szajkę zwierzaków, by napaść na sklep z orzechami.\n\nSpiżarnia pełna orzechów to marzenie każdej wiewiórki. Nie inaczej jest w przypadku Surly'ego – nieco gburowatego mieszkańca miejskiego parku. Gdy w jego pobliżu odkrywa sklep z orzechami, ma tylko jeden cel. Dobrać się do zgromadzonych wewnątrz skarbów. Zaczyna organizować ekipę, by zrealizować skok, który ustawi ich... na całą zimę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "gang wiewiora 2_2017": {
+    "rating": 5.8,
+    "votes": 3496,
+    "rating_fmt": "⭐ 5.8 (FW 6.1 / IMDb 5.5)",
+    "year": 2017,
+    "imdb_id": "tt3486626",
+    "awards": "Po eksplozji magazynu sklepu spożywczego zwierzęta wracają do parku. Burmistrz chce zmienić ich dom w wesołe miasteczko. Uwrażliwiająca na przyrodę kontynuacja animacji z 2014 roku.  W parku panuje zgoda, spiżarnia aż pęka w szwach, a Wiewiór cieszy się zasłużoną opinią szlachetnego spryciarza. A jednak nad futrzaną ferajną znów zbierają się czarne chmury. W mieście chodzą słuchy, że pewien bezwzględny inwestor planuje zamienić miejski park w Park Rozrywki. Zwierzaki wiedzą czym to pachnie: to tak jakby w twojej sypialni ktoś otworzył trzypoziomową dyskotekę. Zatem znów muszą wziąć sprawy w kosmate łapki i z pomocą Wiewióra i uroczej Andzi pokazać ludziom, że zwierzaki z parku nie dadzą sobie w orzechy dmuchać!",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "trzej muszkieterowie_1993": {
+    "rating": 6.3,
+    "votes": 52688,
+    "rating_fmt": "⭐ 6.3 (FW 6.2 / IMDb 6.4)",
+    "year": 2011,
+    "imdb_id": "tt0108333",
+    "awards": "Mistrzowie szpady stają w obronie francuskiego monarchy, któremu grozi utrata korony.  Trójka sławnych muszkieterów - Atos, Portos i Aramis – zostaje odsunięta  w cień za sprawą spisku tajemniczej Milady. Trzy lata później do Paryża  przyjeżdża młody chłopak o nazwisku D’Artagnan, który dołącza do  słynnych szermierzy. W tym samym czasie przebiegły kardynał Richelieu  planuje spisek w celu zdobycia królewskiej korony. Pomaga mu Milady oraz  niegodziwy Buckingham. Jedyna nadzieja w trzech muszkieterach. Tylko  oni, wraz z nowym i niezwykle utalentowanym kompanem, są w stanie  zapobiec katastrofie i ocalić wiszący na włosku pokój z Anglią. Jeden za  wszystkich – wszyscy za jednego!",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pasmo superanimacji potworna rodzinka_2017": {
+    "rating": 5.1,
+    "votes": 4622,
+    "rating_fmt": "⭐ 5.1 (FW 5.3 / IMDb 4.8)",
+    "year": 2017,
+    "imdb_id": "tt6572702",
+    "awards": "Nastoletnia Fay zaprasza bliskich na bal przebierańców. W wyniku klątwy naprawdę zmieniają się oni w potwory, w które się wcielili.  Fay Sielska jest zwyczajną, nieco zbuntowaną nastolatką. Jej młodszy brat Max z racji nieprzeciętnej inteligencji ma na pieńku ze szkolnymi łobuzami. Rodzice natomiast są tak zapracowani, że ledwie znajdują czas na życie rodzinne. Pewnego dnia Fay zabiera wszystkich Sielskich na bal przebierańców. Sama przebiera się za mumię, jej brat za wilkołaka, mama za wampirzycę, a tata za samego Frankensteina. Zabawa jest przednia, aż do chwili, gdy okazuje się, iż na skutek klątwy ich przebrania przestały być tylko żartem, a stały się rzeczywistością.\n\nTak, tak! Sielscy zostali zamienieni w potwory! Od tej chwili robią wszystko, by zdjąć klątwę i uniknąć zaczepek ze strony namolnego hrabiego Draculi. Wkrótce okaże się też, że bycie potworem ma swoje dobre strony. Max może sam sobą poszczuć szkolnych rozrabiaków, jego tata jest silniejszy niż wszyscy Avengersi, mama hipnotyzuje nawet sprzedawców w sklepie, a Fay jest po prostu nieśmiertelna!",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zly porucznik_2009": {
+    "rating": 6.5,
+    "votes": 27702,
+    "rating_fmt": "⭐ 6.5 (FW 6.4 / IMDb 6.6)",
+    "year": 2009,
+    "imdb_id": "tt1095217",
+    "awards": "Uwikłany w nałogi policjant na tropie makabrycznej zbrodni.  Spustoszony przez huragan Katrinę, Nowy Orlean to miejsce pracy Terence'a McDonagha, sierżanta policji, tytułowego bohatera nowego filmu [person=4851]Wernera Herzoga[/person]. Postać wykreowana przez [person=15]Nicholasa Cage'a[/person] nadużywa narkotyków i alkoholu, traci pieniądze na hazard, zadaje się z prostytutkami, a w swojej pracy często przekracza kompetencje zwykłego gliny. 6 miesięcy po awansie na stanowisko porucznika podejmuje dochodzenie w sprawie morderstwa dokonanego na rodzinie emigrantów z Afryki. Czy osobiste problemy pozwolą mu dokończyć śledztwo? Droga na dno wydaje się być niebezpiecznie krótka i prosta....",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "morderstwa we francji arcachon_2019": {
+    "rating": 6.9,
+    "votes": 206,
+    "rating_fmt": "⭐ 6.9 (206)",
+    "year": 2006,
+    "imdb_id": null,
+    "awards": "Hodowca ostryg z Arcachon, Christophe Perrin, pada ofiarą zamachu. Jego trzy córki decydują się poprowadzić własne dochodzenie. Odkryte przez nie sekrety mogą wystawić rodzinne więzi na ciężką próbę.  Gruziński tłumacz Nikołaj podejmuje pracę dla trojga Francuzów, którzy przyjechali, aby obejrzeć właśnie odziedziczony, zrujnowany zamek. Młodzi ludzie wsiadają do autobusu i wyruszają w dwudniową podróż uzbrojeni jedynie w kamery. Autobus, pełen miejscowego uroku, na jednym z przystanków zabiera starca, jego wnuka i pustą trumnę. Osobliwi pasażerowie jadą do wioski swoich wrogów, gdzie dziadek ma zostać zabity i zakończyć długotrwałą krwawą waśń. Gruzini uprzedzają obcokrajowców, aby nie mieszali się w tą sprawę, ale ci niezrażeni postanawiają jechać razem z dziadkiem i wnukiem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "oficer i morderca_2012": {
+    "rating": 5.8,
+    "votes": 761,
+    "rating_fmt": "⭐ 5.8 (FW 5.3 / IMDb 6.4)",
+    "year": 2012,
+    "imdb_id": "tt2223824",
+    "awards": "Szanowany żołnierz dokonuje serii zbrodni.  W kanadyjskim miasteczku nieznajomy podgląda kobiety i podkrada im elementy damskiej bielizny. Zawiadomiona policja bagatelizuje jednak sprawę. Z czasem prześladowca staje się bardziej zuchwały i zaczyna włamywać się do domów, fotografując ofiary w krępujących sytuacjach i nakręcając z nimi filmy. Kiedy jedną z nich okazuje się kapral, Marie-France ([person=187621]Micheline Marchildon[/person]), policja zaczyna działać i wszczyna poszukiwania. Dręczyciel nie daje za wygraną i powraca, by się zemścić...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "hellraiser iii pieklo na ziemi_1992": {
+    "rating": 5.8,
+    "votes": 7988,
+    "rating_fmt": "⭐ 5.8 (FW 6.0 / IMDb 5.5)",
+    "year": 1992,
+    "imdb_id": "tt0104409",
+    "awards": "Dziennikarka Joey staje się świadkiem wstrząsającego zdarzenia: widzi mężczyznę rozczłonkowanego przez łańcuchy. Szuka informacji o ofierze.  Joey Summerskill ([person=47795]Terry Farrell[/person]) jest reporterką, która ostatnio nie miała zbyt dużo szczęścia i teraz próbuje to nadrobić poszukując jakiejś sensacyjnej historii. Pewnej nocy w szpitalu widzi mężczyznę, który ma łańcuchy powsadzane w różne części ciała. Lekarze próbują robić co tylko w ich mocy, ale zostaje on dosłownie rozdarty na części. Joey postanawia odnaleźć osobę, która przyprowadziła chłopaka do szpitala. Okazuje się być nią Terri ([person=43529]Paula Marshall[/person]), dziewczyna niejakiego J.P. Monroe'a ([person=59063]Kevin Bernhardt[/person]), który jest właścicielem popularnego klubu. W klubie tym znajduje się statua cenobita Pinheada ([person=47362]Doug Bradley[/person]), w której jest uwięziony, a może być \"ożywiony\" jedynie krwią. Pinhead zostaje wkrótce uwolniony ze swego więzienia i zaczyna siać spustoszenie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "titanic zagadka rozwiazana_2012": {
+    "rating": 7.2,
+    "votes": 24,
+    "rating_fmt": "⭐ 7.2 (24)",
+    "year": 2012,
+    "imdb_id": null,
+    "awards": "Naukowcy łączą siły, by odpowiedzieć na pytanie, w jaki sposób legendarny niezatapialny statek roztrzaskał się o górę lodową na Atlantyku.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "chuck norris na najwyzszych polobrotach_2019": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2019,
+    "imdb_id": null,
+    "awards": "Chuck Norris, mistrz sztuk walk, jak i producent filmowy i telewizyjny, przedstawi widzom najbardziej niezwykłe pojazdy militarne. Są to maszyny, których nie da się zobaczyć na ulicach.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pan i wladca na krancu swiata_2003": {
+    "rating": 7.3,
+    "votes": 51113,
+    "rating_fmt": "⭐ 7.3 (FW 7.2 / IMDb 7.5)",
+    "year": 2003,
+    "imdb_id": "tt0311113",
+    "awards": "Pościg za wszelką cenę.  Film morskiej przygody. Kapitan \"Lucky\" Aubrey dowodzący brytyjskim statkiem \"Surprise\" ma za zadanie przechwycenie i zatopienie francuskiej fregaty. Gdy w końcu ją znajduje, okazuje się, iż \"zwierzyna\" jest dużo groźniejsza niż \"myśliwy\". Pomimo zniszczeń Aubrey nie poddaje się i rusza w straceńczą pogoń poprzez dwa oceany. Upór kapitana budzi wątpliwości jego najlepszego przyjaciela - doktora Maturina - czy chodzi o rozkaz, chwałę Anglii, czy tylko o sławę...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zabojca_2007": {
+    "rating": 6.2,
+    "votes": 42151,
+    "rating_fmt": "⭐ 6.2 (FW 6.2 / IMDb 6.2)",
+    "year": 2023,
+    "imdb_id": "tt0499556",
+    "awards": "Prywatna wojna agenta i płatnego mordercy.  Opanowany i metodyczny zabójca ([person=172683]Michael Fassbender[/person]) bez skrupułów czeka w cieniu, wypatrując kolejnego celu. Upływający czas mąci jednak jego spokój, a kłębiące się myśli sprawiają, że mężczyzna powoli traci rozum. Gdy wreszcie oddaje strzał, ten okazuje się niecelny. Pudło wiąże się z surowymi konsekwencjami.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "jestem zemsta_2016": {
+    "rating": 5.2,
+    "votes": 4985,
+    "rating_fmt": "⭐ 5.2 (FW 5.1 / IMDb 5.4)",
+    "year": 2016,
+    "imdb_id": "tt3212232",
+    "awards": "Stanley (John Travolta) wpada na trop groźnego spisku.  Stanley Hill ([person=216]John Travolta[/person]) i jego żona zostają napadnięci w podziemnym garażu. Zaatakowana przez bandytów kobieta umiera na jego rękach. Policji nie udaje się jednak ująć sprawców. Zrozpaczony mężczyzna postanawia wziąć sprawy w swoje ręce i z pomocą przyjaciół wymierzyć sprawiedliwość. Okazuje się, że mordercy pracują dla mafijnego bossa, który ma w kieszeni zarówno lokalnych funkcjonariuszy, jak i polityków.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "za horyzontem_1992": {
+    "rating": 6.9,
+    "votes": 13041,
+    "rating_fmt": "⭐ 6.9 (FW 7.1 / IMDb 6.6)",
+    "year": 1992,
+    "imdb_id": "tt0104231",
+    "awards": "Historia irlandzkich emigrantów w Ameryce.  Ameryka w okresie Wielkiej Kolonizacji. Do Nowego Świata trafia para młodych ludzi ([person=24]Tom Cruise[/person] i [person=59]Nicole Kidman[/person]). Pochodzą oni z diametralnie różnych kręgów społecznych, łączony ich jednak wspólne marzenie. Pragną zdobyć skrawek własnej ziemi. Czy młodość i entuzjazm przetrwa konfrontację z surowymi i brutalnymi prawami rządzącymi Dzikim Zachodem? Czy rodzące się uczucie będzie w stanie połączyć tak różne osobowości?",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "braterstwo wilkow_2001": {
+    "rating": 7.1,
+    "votes": 45559,
+    "rating_fmt": "⭐ 7.1 (FW 7.2 / IMDb 7.0)",
+    "year": 2001,
+    "imdb_id": "tt0237534",
+    "awards": "Zabójcza bestia grasuje w Gevaudan.  Jeden z najbardziej widowiskowych filmów francuskich ostatniej dekady, z rewelacyjnymi efektami specjalnymi, za które odpowiedzialni byli twórcy ze studia [person=48493]Jima Hensona[/person]. Francja za panowania Ludwika XV. W niewielkiej, odciętej od świata wiosce na południu szaleje \"Bestia z Gevaudan\", monstrualna istota odpowiedzialna za śmierć ponad stu ludzi, głównie kobiet i dzieci. Gdy region ogarnia panika, król wysyła do Gevaudan swych najlepszych żołnierzy polecając im wytropić i zgładzić potwora.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "krag_2002": {
+    "rating": 7.0,
+    "votes": 458,
+    "rating_fmt": "⭐ 7.0 (FW 6.9 / IMDb 7.1)",
+    "year": 2000,
+    "imdb_id": "tt0298130",
+    "awards": "Po mieście krąży legenda o przeklętej kasecie wideo. Każdy, kto ją obejrzy, umiera po 7 dniach. Gdy czworo nastolatków ginie w niejasnych okolicznościach, dziennikarka Rachel chce zbadać sprawę.  Iran. W szpitalu kobieta rodzi zdrową dziewczynkę, jeszcze nie wie, że ona i jej córka są niechciane. W tym samym czasie trzy kobiety zostają zwolnione z więzienia i konieczność uzyskania pieniędzy prowadzi je do podjęcia desperackich kroków. A niezamężna kobieta, szukająca pomocy przy dokonaniu aborcji, zostaje wyrzucona z domu swojego ojca przez gwałtownych braci.\nIch zbrodnie są niejasne, ich wina czy niewinność nieważne. Ich ścieżki przecinają się, napięcie potęguje. Ich ciężkie położenie jest często tragicznie podobne. Ich świat jest jedną ciągłą inwigilacją, biurokracją i nierównością. Lecz ta dusząca rzeczywistość nie jest w stanie zabić ducha, siły i odwagi kobiet.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "the ring 2_2005": {
+    "rating": 5.9,
+    "votes": 56004,
+    "rating_fmt": "⭐ 5.9 (FW 6.3 / IMDb 5.4)",
+    "year": 2005,
+    "imdb_id": "tt0377109",
+    "awards": "Rachel próbuje zapomnieć o koszmarze, który przeżyła. Niestety, on powraca....  W 2002 roku, kiedy powstał thriller \"[film=34565]The Ring[/film]\", widzowie poznali Rachel Keller i jej synka Aidana, którzy stali się świadkami działań złej siły. Oto duch Samary Morgan, dziewczynki, którą utopiono 25 lat wcześniej, uwięziony został pomiędzy światem żywych i światem umarłych. Ogarnięty pragnieniem zemsty posłużył się zwykłą kasetą video. Kto ją obejrzał, umierał w ciągu 7 dni. Rachel i Aidan znaleźli sposób, by uniknąć śmierci, ale czy na pewno? \nAkcja filmu \"The Ring 2\" rozpoczyna się sześć miesięcy po mrożących w żyłach wydarzeniach w Seattle. Aby uciec przed wspomnieniami, bohaterowie przeprowadzają się do małego, nadmorskiego miasteczka Astoria. Ma to być dla obojga nowy start w spokojne życie, ale koszmar powrócił. Okazuje się, że kolejna zbrodnia z udziałem kasety video ma miejsce właśnie w Astorii...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mgla_2005": {
+    "rating": 4.9,
+    "votes": 233919,
+    "rating_fmt": "⭐ 4.9 (FW 5.8 / IMDb 3.7)",
+    "year": 2007,
+    "imdb_id": "tt0432291",
+    "awards": "Remake kultowego horroru Johna Carpentera z 1980 roku.    Po przejściu gwałtownej nawałnicy artysta, David Drayton i społeczność niewielkiego miasteczka stają się ofiarami morderczego ataku istot grasujących w gęstej i nienaturalnej mgle. Krążą wieści o eksperymencie zwanym \"Projekt Grot Strzały\", przeprowadzonym w położonej nieopodal tajnej bazie wojskowej, ale pytanie o pochodzenie śmiertelnych wyziewów jest drugorzędne dla grupy, jeśli chodzi o jej szanse na przetrwanie. Wycofując się do miejscowego supermarketu, Drayton i inni, którym udało się ocaleć, muszą najpierw stoczyć walkę pomiędzy sobą, zanim zjednoczą siły przeciw wspólnemu wrogowi, którego nie mogą nawet zobaczyć!\r\n\r\n[opis dystrybutora]",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "poza kontrola katastrofa platformy deepwater horizon_2017": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2017,
+    "imdb_id": null,
+    "awards": "W 2010 roku w Zatoce Meksykańskiej doszło do jednego z największych wycieków ropy naftowej w historii. Twórcy dokumentu zrekonstruują przebieg katastrofalnej eksplozji.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "odrodzenie katedry notre dame_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "15 kwietnia 2019 roku w katedrze Najświętszej Marii Panny w Paryżu wybuchł pożar, który spowodował ogromne zniszczenia. Xavier Lefebvre przez pięć lat dokumentował prace nad renowacją zabytku.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mortui sunt cmentarz lyczakowski_1991": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 1991,
+    "imdb_id": null,
+    "awards": "",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pawel apostol chrystusa_2018": {
+    "rating": 6.6,
+    "votes": 2927,
+    "rating_fmt": "⭐ 6.6 (FW 6.5 / IMDb 6.7)",
+    "year": 2018,
+    "imdb_id": "tt7388562",
+    "awards": "Łukasz rusza do Rzymu, gdzie na egzekucję czeka Paweł. Chce towarzyszyć mu w ostatnich dniach.   Barwna opowieść o św. Pawle to historia jednego z najzagorzalszych\nprzeciwników Chrystusa, nawróconego faryzeusza, który dzięki swej wierze i oddaniu stał się najważniejszym, najbardziej wpływowym apostołem. \nŻycie Pawła to tak naprawdę sensacyjny scenariusz, na który składają się dziesiątki podróży po niemal całym świecie, niebezpieczne misje chrystianizacyjne, spiski, wielkie ucieczki, prześladowanie oraz wielokrotne uwięzienie za poglądy, a w końcu męczeńska śmierć przez ścięcie... Ale życie Pawła to także wielka nauka dla całej ludzkości, dzieje, które zmieniły ludzkość.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "babcia nelly_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Twórcy przypominają, jak w Australii traktowano Aborygenów. Pokazują również ich dzisiejsze starania o odzyskanie tożsamości oraz godności. Irene Ridgeway próbuje odtworzyć losy swojej przodkini.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "program mamut na ratunek gatunkom_2024": {
+    "rating": 7.2,
+    "votes": 0,
+    "rating_fmt": "⭐ 7.2 (IMDb)",
+    "year": 2024,
+    "imdb_id": "tt34387710",
+    "awards": "Na Ziemi trwa największe masowe wymieranie od czasów dinozaurów. Film pokazuje starania naukowców, którzy niczym bohaterowie kina SF dążą do odtworzenia zapomnianych gatunków.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wanda ostatnia z oddzialu_2024": {
+    "rating": 6.7,
+    "votes": 16,
+    "rating_fmt": "⭐ 6.7 (16)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Portret jednej z ostatnich żyjących uczestniczek powstania warszawskiego. Wanda Traczyk­-Stawska podzieli się wspomnieniami i opowie o swojej codzienności.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wyjatkowe zycie ibelina_2024": {
+    "rating": 7.5,
+    "votes": 3091,
+    "rating_fmt": "⭐ 7.5 (3k)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Po śmierci Matsa Steena, norweskiego gracza komputerowego, jego rodzice pogrążyli się w żałobie. 25-latek zmagał się ze zwyrodnieniową chorobą mięśni. Miał jednak licznych przyjaciół w internecie.  Kiedy norweski gracz komputerowy [person=1891729]Mats Steen[/person] zmarł w wieku 25 lat, jego rodzice pogrążyli się w żałobie, ubolewając nad smutnym i samotnym życiem syna cierpiącego na zwyrodnieniową chorobę mięśni. Po wejściu na jego bloga z zaskoczeniem odkryli jednak, że ich syn miał mnóstwo internetowych przyjaciół i był bardzo cenioną osobą w gamingowym świecie. Dokument przybliża nam pełne przygód życie [person=1891729]Matsa Steena[/person] w sieci, gdzie bardziej znany był jako charyzmatyczny Ibelin z gry \"World of Warcraft\". Animowane rekonstrukcje z rozgrywek [person=1891729]Matsa[/person], czytane wpisy z jego bloga oraz wywiady z osobami, które znały go jako Ibelina, składają się na obraz wyjątkowego młodego człowieka - chłopaka, który pokazał, że bliskie relacje i zżyta społeczność mogą istnieć także poza granicami świata fizycznego.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "jak to sie skonczy_2026": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2026,
+    "imdb_id": null,
+    "awards": "Śmierć to pewnik życia, lecz wielu Polaków unika rozmów o niej. Odsuwamy temat, wypełniając dni rozrywką, marzeniami oraz obowiązkami. Refleksja nad śmiercią może jednak pomóc lepiej ułożyć życie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "cyfrowa bomba zegarowa_2025": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Internet to nie tylko wirtualna przestrzeń, lecz także skomplikowana i narażona na ataki fizyczna infrastruktura: centra danych, miliony serwerów, kable poprowadzone po dnach mórz.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "taniec pol pota_2023": {
+    "rating": 6.5,
+    "votes": 42,
+    "rating_fmt": "⭐ 6.5 (42)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Chea Samy była w latach 30. XX wieku solistką zespołu tanecznego w kambodżańskim Pałacu Królewskim i przybraną matką Pol Pota. Stracili kontakt, gdy on po ukończeniu studiów zniknął w podziemiu.  Chea Samy była w latach 30. XX wieku wybitną solistką królewskiego zespołu tanecznego, działającego na dworze kambodżańskiego Pałacu Królewskiego. Była też przybraną matką [person=433599]Salotha Sara[/person], który później przyjął imię [person=433599]Pol Pot[/person]. Po wyjściu za mąż za starszego brata dyktatora - urzędnika niskiego szczebla na dworze królewskim, opiekowała się chłopcem jak własnym synem. Stracili kontakt, gdy ten, po ukończeniu studiów, zniknął w podziemiu. W 1975 roku, podobnie jak miliony innych Kambodżańczyków, została wypędzona na pola ryżowe. Dopiero po trzech latach przymusowej pracy dowiedziała się, że [person=433599]Pol Pot[/person] to chłopiec, którego kilkadziesiąt lat wcześniej wychowywała. Jako jedna z nielicznych tancerek zdołała przetrwać jego dyktaturę. Wróciła do Phnom Penh jako nauczycielka tańca, pielęgnując w ten sposób wiedzę o tradycyjnej sztuce. Jedną z jej pierwszych uczennic była Sophiline Cheam - uznana współczesna choreografka, której zespół wykorzystuje wydarzenia z przeszłości Kambodży w swoich układach tanecznych. Związek [person=433599]Pol Pota[/person] z klasycznym tańcem kambodżańskim może tłumaczyć, dlaczego ofiarą brutalnych rządów Czerwonych Khmerów padali zwłaszcza artyści i intelektualiści, których przywódca - jak na ironię - znaczną część swojego dzieciństwa spędził w pałacu królewskim, a dzięki tańcowi zyskał dostęp do szkolnictwa wyższego.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "dzikie zwierzeta i patogeny_2025": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Kiedy choroba rozprzestrzenia się masowo w środowisku, niszcząc całe populacje na danym obszarze, nazywa się to epizoocją. Zwierzęta wykształciły mechanizmy obronne, by przeciwstawić się patogenom.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zakazana moskwa sekretne zycie stolicy w stanie wojny_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Przedstawiciele moskiewskich elit przystosowali się do nowych realiów związanych z wojną. Zmiany widoczne są przede wszystkim w jednym obszarze - kontroli dostępu do informacji.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mysmy juz byli bohaterowie starych powazek_2024": {
+    "rating": 6.6,
+    "votes": 8,
+    "rating_fmt": "⭐ 6.6 (8)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Film oparty jest na biogramach i fragmentach archiwalnych wypowiedzi osób, które spoczęły na warszawskich Powązkach. Są wśród nich aktorzy, piosenkarze, muzycy, kompozytorzy, pisarze i poeci.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wozac pania daisy_1989": {
+    "rating": 7.2,
+    "votes": 48686,
+    "rating_fmt": "⭐ 7.2 (FW 7.2 / IMDb 7.3)",
+    "year": 1989,
+    "imdb_id": "tt0097239",
+    "awards": "Historia wielkiej przyjaźni starszej arystokratki i jej czarnoskórego kierowcy.  Pani Daisy ([person=9175]Jessica Tandy[/person]) to żydowska staruszka. Gdy pewnego dnia rozbija samochód, jej syn ([person=3]Dan Aykroyd[/person]) postanawia zatrudnić kierowcę. Wybór pada na czarnoskórego Hoke'a ([person=176]Morgan Freeman[/person]). Początkowo pani Daisy jest oburzona, uważa decyzję syna za niedorzeczność i stratę pieniędzy. Nie chce jeździć z Hokiem, gani go za wszystko co robi. Jednak z czasem cała ta sytuacja zaczyna się zmieniać. Daisy zaczyna lubić swego kierowcę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "niezwykla wedrowka harolda fry_2023": {
+    "rating": 6.8,
+    "votes": 2204,
+    "rating_fmt": "⭐ 6.8 (FW 6.8 / IMDb 6.9)",
+    "year": 2023,
+    "imdb_id": "tt14097206",
+    "awards": "Emeryt wyrusza w podróż, aby spotkać się z umierającą przyjaciółką. Adaptacja powieści Rachel Joyce.  Historia niezwykłego człowieka, który wyrusza w niezwykłą podróż. Harold wiedzie życie bez szczególnego celu, dopóki nie dowiaduje się, że jego dawna przyjaciółka Queenie umiera. Wyrusza w wędrówkę przez Anglię, aby się z nią zobaczyć. Podróż Harolda stanowi celebrację życia, która pomaga nam sobie uświadomić, że porażka i strata - tak samo jak sukces i radość - mogą nas ukształtować.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wiecej niz fikcja hopper i vermeer dialog o samotnosci_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Choć Edwarda Hoppera i Johannesa Vermeera dzielą trzy stulecia, ich obrazy łączy podobna, szczególna wizja świata. Obaj artyści pielęgnowali tajemnicę: wprowadzali dyskretne, enigmatyczne symbole.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wezwany z kamieniolomu_2026": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2026,
+    "imdb_id": null,
+    "awards": "1 listopada 1946 roku w Krakowie Karol Wojtyła przyjął święcenia kapłańskie, co otworzyło jego drogę do całkowitego oddania się Bogu. W 2026 roku mija dokładnie 80 lat od tego przełomowego momentu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "po prostu przyjazn_2016": {
+    "rating": 6.1,
+    "votes": 33014,
+    "rating_fmt": "⭐ 6.1 (33k)",
+    "year": 2016,
+    "imdb_id": null,
+    "awards": "Historie ludzi, którzy znaleźli się na życiowym rozdrożu. Los wystawia na próbę ich więzi.  Wielowątkowa, wzruszająca komedia o grupie przyjaciół, których relacje - w obliczu życiowych przeciwności - zostają wystawione na niejedną próbę.\n\nAlina i Marian ([person=66693]Sonia Bohosiewicz[/person] i [person=40239]Marcin Perchuć[/person]) w zaskakujący sposób wygrywają wielkie pieniądze; to, w jaki sposób się nimi podzielą, wcale nie jest takie oczywiste. Ivanka ([person=114953]Magdalena Różczka[/person]), singielka i bizneswomen, chce mieć dziecko nie wiążąc się z mężczyzną; ma jej w tym pomóc serdeczny przyjaciel Patryk ([person=2864]Bartłomiej Topa[/person]). Filip ([person=1500526]Kamil Kula[/person]) ryzykuje twarz i karierę dla kaprysu zwariowanej kolekcjonerki guzików Jadźki ([person=810790]Aleksandra Domańska[/person]). Stateczny profesor ([person=40236]Krzysztof Stelmaszyk[/person]) odmawia nieprzyzwoitej prośbie przyjaciela ([person=174042]Przemysław Bluszcz[/person]), ale w tajemnicy przed nim porywa się na rzecz niemal karkołomną.\n\nTymczasem zgrana paczka przyjaciół ([person=921542]Agnieszka Więdłocha[/person], [person=810790]Aleksandra Domańska[/person], [person=144102]Maciej Zakościelny[/person], [person=1259099]Piotr Stramowski[/person], [person=40239]Marcin Perchuć[/person]) jak co roku wyrusza w góry. Tam odkrywają tajemnicę, która na zawsze zmieni ich życie.\n\nCo wybiorą? Lojalność czy pieniądze? Przyjaźń czy miłość? Prawdę czy kłamstwo? Własne czy cudze szczęście? Każdy wybór dla bohaterów komedii \"Po prostu przyjaźń\" oznacza tarapaty. Kto im pomoże? Wiadomo: przyjaciele. Bo przyjaźń, jak żadna inna inwestycja, zawsze się opłaca.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "john q_2002": {
+    "rating": 7.3,
+    "votes": 125716,
+    "rating_fmt": "⭐ 7.3 (FW 7.5 / IMDb 7.1)",
+    "year": 2002,
+    "imdb_id": "tt0251160",
+    "awards": "Zdesperowany ojciec walczy o życie ukochanego syna.  John Q ([person=220]Denzel Washington[/person]) jest głową niezbyt zamożnej, ale szczęśliwej rodziny. Zabrany przez bank samochód przestaje być problemem, kiedy okazuje się, że ukochany synek potrzebuje natychmiastowego przeszczepu serca, inaczej umrze. John jednak dowiaduje się, że jego polisa nie obejmuje takiej operacji, więc nagle musi znaleźć 75 000 dolarów. Od tego zależy życie jego synka. Mężczyzna podejmuje desperacką walkę z biedą, szpitalem i systemem, który pozwala na wypisanie dziecka z oddziału i tym samym pozostawienie na pewną śmierć. Kiedy wszystkie wysiłki Johna idą na marne, ucieka się on do ostateczności - terroryzuje pracowników i pacjentów pogotowia, próbując w ten sposób wymusić na lekarzach przeprowadzenie operacji na dziecku.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zaklinacz deszczu_1997": {
+    "rating": 7.3,
+    "votes": 17072,
+    "rating_fmt": "⭐ 7.3 (FW 7.4 / IMDb 7.2)",
+    "year": 1997,
+    "imdb_id": "tt0119978",
+    "awards": "Młody prawnik, idealista Baylor, prowadzi pierwszą poważną sprawę, od której zależą jego dalsze losy.  Rudy Baylor, świeżo upieczony prawnik, staje oko w oko z potężnym towarzystwem ubezpieczeniowym Great Benefit, które nie chce pokryć kosztów leczenia chłopca chorego na białaczkę. Kiedy jednak sprawa trafia do sądu, towarzystwo proponuje wartą 75 tys. dolarów ugodę. Intuicja Rudyego podpowiada mu jednak, aby się na to nie godzić, gdyż właśnie wpadł na trop wielkiej afery. Rozpoczyna się trudny i zawiły proces sądowy, w którym bohater musi stawić czoła rzeszy prawników wynajętej przez towarzystwo.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "anna german w sercach ludzi_2022": {
+    "rating": 7.2,
+    "votes": 45,
+    "rating_fmt": "⭐ 7.2 (45)",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Twórcy przedstawiają życie Anny German oraz przywołują nieznane fakty na temat artystki. Zaprzyjaźnione z nią osoby z kręgów artystycznych dzielą się także wspomnieniami o niej.  Film dokumentalny \"Anna German w sercach ludzi\" opowiada o życiu i karierze piosenkarki i kompozytorki, laureatki wielu festiwali. Autorka dotarła do ciekawych rozmówców, z których każdy ma swoją osobistą opowieść o [person=140293]Annie German[/person]. W filmie wypowiadają się m.in.: [person=85284]Irena Santor[/person], [person=706310]Barbara Czartoryska[/person] – córka przyjaciółki piosenkarki, Piotr Wojciechowski – pisarz, poeta, krytyk filmowy, kolega artystki z czasów studenckich, [person=1257148]Marek Sewen[/person] – dyrygent, kompozytor i aranżer, [person=1532910]Marian Lichtman[/person] - perkusista zespołu Trubadurzy, [person=189457]Miriam Aleksandrowicz[/person] - córka [person=697812]Zofii Dybowskiej Aleksandrowicz[/person] reżyserki filmów o Annie German, Aldona Michalak - dyrektor Międzynarodowego Festiwalu Piosenki - Anna German. O Annie German mówią także młodzi ludzie, którzy, co prawda, nie znali jej osobiście, ale zanurzeni są w jej twórczości, laureaci Festiwalu Piosenki – Anna German: Denis Sotnikov, Aleksandra Sędzielewska, Michał Matuszewski, Lilit Minasyan.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pora umierac_2007": {
+    "rating": 7.7,
+    "votes": 34982,
+    "rating_fmt": "⭐ 7.7 (FW 7.9 / IMDb 7.5)",
+    "year": 2007,
+    "imdb_id": "tt0835834",
+    "awards": "Historia starszej pani, właścicielki popadającej w ruinę drewnianej willi.  Czarno-biały obraz mówiący o starszej kobiecie, Anieli Walter. Mieszkająca w starym domu, wywodząca się z rodziny szlacheckiej, osoba obdarzona jest dużym poczuciem humoru i swoistym dystansem do świata. Towarzyszem jej codziennych czynności jest suka, Filadelfia; od czasu do czasu odwiedza ją syn z wnuczką, czekający tylko na to by przejąć majątek po matce. Lecz starsza osoba widząc (następnie dosadnie doświadczając) zachowania syna zmienia stare plany",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kurier_2019": {
+    "rating": 6.1,
+    "votes": 28988,
+    "rating_fmt": "⭐ 6.1 (FW 6.2 / IMDb 5.9)",
+    "year": 2019,
+    "imdb_id": "tt8706988",
+    "awards": "Posłaniec podejmuje się ryzykownej misji, która zaważy na przyszłości jego rodaków.  Fabuła filmu opowiada o kilkunastu dniach przed wybuchem Powstania, kiedy dowództwo Armii Krajowej rozważa wszystkie za i przeciw rozpoczęciu otwartej bitwy z Niemcami. Trudna misja, jakiej podjął się [person=903711]Nowak-Jeziorański[/person] polegała na przedostaniu się z okupowanej Polski do Londynu, by przekazać informacje o walach Armii Krajowej i dowiedzieć się czy Brytyjczycy udzielą pomocy dla walczącej Warszawy, na które liczyło dowództwo AK, a także politycy i delegat rządu na kraj. Po spotkaniu z najważniejszymi politykami brytyjskimi wraca do kraju ze smutnymi wieściami: żadnej pomocy nie będzie.\nW tle rozgrywają się wydarzenia kluczowe dla przyszłości naszego kraju: dokonany zostaje zamach na [person=140484]Adolfa Hitlera[/person], premier [person=2066904]Stanisław Mikołajczyk[/person] jedzie do Moskwy, bezskutecznie próbując doprowadzić do ugody ze Stalinem, powstaje PKWN, Sowieci zbliżają się do Warszawy, a dowództwo AK w Wilnie zostaje podstępnie aresztowane.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "dziuple i ich mieszkancy_2022": {
+    "rating": 6.5,
+    "votes": 4,
+    "rating_fmt": "⭐ 6.5 (4)",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Każde drzewo odgrywa istotną rolę w ekosystemie. O znaczeniu dziupli oraz o ptakach, które w nich zamieszkują, opowiada doktor Andrzej Kruszewicz - ornitolog, przyrodnik i dyrektor warszawskiego zoo.  W lesie nic nie dzieje się przypadkiem - każde drzewo, bez względu na wiek, stan i kondycję, odgrywa kluczową rolę w ekosystemie. Gdy pęka lub obumiera, wcale nie traci znaczenia. Z czasem przekształca się w schronienie, magazyn surowca i miejsce życia dla wielu stworzeń. W pniach zaczynają pojawiać się wgłębienia, które stają się idealnymi kryjówkami. Z wysuszonego drewna osy i szerszenie pobierają celulozę, a krucha osika dostarcza wiewiórkom miękkiego materiału do budowy gniazda. Film \"Dziuple i ich mieszkańcy\" przedstawia ten niezwykły świat z perspektywy dr. [person=2331574]Andrzeja Kruszewicza[/person] - ornitologa i dyrektora Warszawskiego Ogrodu Zoologicznego.\n\nOdkrywamy fascynującą drogę, jaką przechodzi drzewo - od żywego organizmu po martwy pień, wciąż tętniący aktywnością. Złamane gałęzie i puste przestrzenie przyciągają owady, ssaki i ptaki. Szerszenie oraz osy wykorzystują suchą tkankę drzew do budowy swoich gniazd, a wiewiórki chętnie pozyskują z osiki miękkie włókno, idealne do wyścielania swoich legowisk.\n\nDr [person=2331574]Andrzej Kruszewicz[/person], z pasją i ogromną wiedzą opowiada o gatunkach, które uzależniły swoje życie od tych naturalnych schronień. Tłumaczy, dlaczego dziuple są tak cennym zasobem i jak brak odpowiednich drzew wpływa na populacje ptaków.\n\nTo film, który w pięknych obrazach i pasjonującej narracji przedstawia ukryty, fascynujący świat leśnych zakamarków. Uczy dostrzegać wartość martwych drzew i pokazuje, jak złożone są relacje między gatunkami. Idealny dla wszystkich, którzy chcą lepiej zrozumieć naturę i spojrzeć na las z nowej perspektywy.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "nowoczesna archeologia niech przemowia miejsca": {
+    "rating": 6.9,
+    "votes": 78,
+    "rating_fmt": "⭐ 6.9 (78)",
+    "year": 1967,
+    "imdb_id": null,
+    "awards": "Badacze coraz częściej sięgają po nowe technologie, które pozwalają im lepiej interpretować znaleziska. Każdy odcinek prezentuje inne narzędzia, dzięki którym zatarte ślady stają się czytelniejsze.  Relacja z prac wykopaliskowych ekipy archeologów z Instytutu Historii Kultury Materialnej Polskiej Akademii Nauk na terenie krematorium w obozie koncentracyjnym Auschwitz-Birkenau. To archeologia, która oskarża.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mokradla_2024": {
+    "rating": 7.0,
+    "votes": 3,
+    "rating_fmt": "⭐ 7.0 (3)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Mokradła, stanowiące niegdyś istotną część polskiego krajobrazu, dziś zanikają w zastraszającym tempie. Ten wyjątkowy ekosystem jest domem dla wielu zagrożonych gatunków roślin i zwierząt.  Mokradła to najszybciej ginące ekosystemy świata. Zanikają trzy razy szybciej niż lasy. Wiele roślin i zwierząt występujących na terenach podmokłych jest zagrożonych wyginięciem. W Polsce tereny podmokłe jeszcze w połowie XX wieku stanowiły znaczącą część kraju. Patrząc historycznie, trzeba przyznać, że nie czyniono roztropnie w stosunku do tych terenów. Zabiegi melioracyjne w ubiegłym wieku, polegające na osuszaniu i powiększaniu obszarów do produkcji rolnej, zaburzały stosunki wodne, a tym samym zdolność do naturalnego zatrzymywania wody. Potrzebne są systemowe rozwiązania, ale także szerokie działania edukacyjne, by wszyscy widzieli korzyść w ochronie mokradeł, kluczowych dla przyszłości całego naszego globu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "czasy ostateczne pozostawieni_2014": {
+    "rating": 3.5,
+    "votes": 9425,
+    "rating_fmt": "⭐ 3.5 (FW 3.8 / IMDb 3.2)",
+    "year": 2014,
+    "imdb_id": "tt2467046",
+    "awards": "Grupa wybrańców zostaje poddana trudnej próbie.  Pewnego dnia chaos ogarnia Ziemię, co prowadzi do nieuniknionych  konsekwencji politycznych i gospodarczych. Pozostali przy życiu ludzie stają się świadkami proroctwa biblijnego, które zwiastuje koniec  świata. Wśród nich są : pilot Rayford Steele ([person=15]Nicolas Cage[/person]) i jego córka Chloe ([person=798815]Cassi Thomson[/person]), młody dziennikarz Buck Williams ([person=105678]Chad Michael Murray[/person]) oraz pastor Bruce Barnes ([person=43359]Lance E. Nichols[/person]). Wszyscy z nich zastanawiają się nad misją daną im przez Boga oraz czy w zaistniałych  okolicznościach mają szansę na zbawienie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "maksimum ryzyka_1996": {
+    "rating": 6.4,
+    "votes": 8710,
+    "rating_fmt": "⭐ 6.4 (9k)",
+    "year": 1996,
+    "imdb_id": null,
+    "awards": "Widowiskowe kino akcji z niezawodnym Van Damme'em.  Na jednej z ulic Nicei ginie ścigany przez zabójców młody człowiek. Jeden z przybyłych na miejsce zdarzeń policjantów, Francuz Alain Moreau, przeżywa szok, kiedy okazuje się, że zmarły był do niego bliźniaczo podobny... Ze znalezionego przy nim paszportu Alain dowiaduje się, że nazywał się on Mikhail Suverov i mieszkał w Nowym Jorku. Alain udaje się po wyjaśnienia do swojej matki, Chantal. Jak się okazuje Alain rzeczywiście miał brata bliźniaka, ale matka nie mogła utrzymać dwóch synów i jednego z nich zmuszona była oddać do adopcji.\n Alain postanawia wyjaśnić kulisy śmierci brata i przyczyny, dla których przybył on do Nicei. Wyjeżdża do Nowego Jorku i zjawia się w jego rosyjskiej dzielnicy zwanej \"Małą Odessą\". W jednym z barów poznaje dziewczynę Mikhaila, piękną Alex, która - przekonana, że ma do czynienia z Mikhailem - zdziwiona jest jego pojawieniem się. Okazuje się, że Mikhail był adoptowanym synem szefa rosyjskiej mafii w Nowym Jorku, a obecnie poszukują go zarówno członkowie mafii jak i agenci FBI. Mikhail wszedł w posiadanie znacznej sumy pieniędzy, która ukrył w banku w Nicei. Alain znajduje się więc w śmiertelnym niebezpieczeństwie...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mistrzowie budownictwa zamki templariuszy_2022": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Podróż po Europie śladami jednego z najbardziej tajemniczych zakonów średniowiecza. Dzięki spektakularnym ujęciom, rekonstrukcjom 3D i komentarzom ekspertów dokument odsłania, jak powstawały twierdze.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zamki krzyzowcow budowle nie do zdobycia_2022": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2022,
+    "imdb_id": null,
+    "awards": "Po zdobyciu Jerozolimy krzyżowcy budowali na Bliskim Wschodzie twierdze, stale je ulepszając. Takie zamki jak Krak des Chevaliers czy Belvoir były wzorami obronności i świadectwem wojskowego geniuszu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "faceci w czerni 3_2012": {
+    "rating": 6.8,
+    "votes": 131457,
+    "rating_fmt": "⭐ 6.8 (FW 6.8 / IMDb 6.8)",
+    "year": 2012,
+    "imdb_id": "tt1409024",
+    "awards": "Pogromcy kosmitów na Ziemi tym razem przełamują barierę czasu.  Kolejna część kultowej serii o agentach specjalnej jednostki rządowej. Zadaniem jednostki jest zajmowanie się kontaktami z Obcymi i utrzymywaniem społeczeństwa w nieświadomości, jak częste są wizyty przybyszów z kosmosu... Pojawiają się bez zapowiedzi, znikają bez śladu. Ich znakiem rozpoznawczym są czarne garnitury i okulary... a także cały zestaw kosmicznych gadżetów. Tym razem dwaj najbardziej znani agenci MIB zmierzą się z kosmitami w niezwykłym śledztwie pokonującym bariery nie tylko przestrzeni, ale i czasu. Agenci w czerni bronią Ziemi przed kosmitami już po raz trzeci - dwie pierwsze części cyklu zyskały sobie na całym świecie rzeszę wiernych fanów, zarabiając odpowiednio 600 i 400 milionów dolarów.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "alpinista_2021": {
+    "rating": 7.8,
+    "votes": 2589,
+    "rating_fmt": "⭐ 7.8 (FW 7.8 / IMDb 7.9)",
+    "year": 2021,
+    "imdb_id": "tt11790780",
+    "awards": "Portret pasjonata i ryzykanta, Marca-André Leclerca. Kanadyjski alpinista wspinał się bez zabezpieczenia, czyli w stylu free solo. W górach dokonywał brawurowych wyczynów, nie dbając o rozgłos.  Gdy wspinanie z niszowego hobby zmienia się w dyscyplinę olimpijską i wchodzi do mainstreamu, [person=2605958]Marc-André Leclerc[/person] wspina się samotnie, daleko od świateł reflektorów. Na odległych skalnych ścianach ten 23-latek dokonuje jednych z najśmielszych przejść free solo w historii. Mimo to wzbudza nikłe zainteresowanie. Wspinanie [person=2605958]Marca-André Leclerca[/person] odbywa się bez towarzystwa kamer, bez liny, a także bez miejsca na popełnienie błędu. Jest esencją przygody free solo.\n\nZnany reżyser [person=524292]Peter Mortimer[/person] (autor m.in. \"[film=804966]The Dawn Wall[/film]\"), zaintrygowany nienagłośnionymi przez media wyczynami [person=2605958]Marca-André[/person], postanawia nakręcić o nim film. Jednak kanadyjski solista jest nieuchwytny: zmienia miejsca pobytu, nie występuje w mediach, nie ma telefonu ani samochodu i broni się przed dopuszczeniem ekipy filmowej do swojego świata czystego stylu wspinaczkowego. [person=524292]Peter[/person] nie poddaje się jednak, a drogi [person=2605958]Marca-André[/person] stają się coraz dłuższe i trudniejsze. Elita środowiska zachwyca się jego dokonaniami, gdy tymczasem inni martwią się, że podejmuje zbyt wielkie ryzyko. I wtedy [person=2605958]Marc-André[/person] wyrusza na pamiętną wyprawę do Patagonii, która na nowo zdefiniuje, co jest możliwe we wspinaniu free solo. Film dokumentalny \"The Alpinist\" jest przejmującym portretem wspinacza-wizjonera, który podąża ścieżką wytyczoną przez pasję, mimo najpoważniejszych (!!!) możliwych konsekwencji.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "hrabia monte christo_2002": {
+    "rating": 7.6,
+    "votes": 56039,
+    "rating_fmt": "⭐ 7.6 (FW 7.5 / IMDb 7.7)",
+    "year": 2002,
+    "imdb_id": "tt0245844",
+    "awards": "Uciekinier z więzienia zdobywa ogromny skarb, który pozwala mu się zemścić.  Dramatyczne losy młodego marynarza, Edmunda Dantesa ([person=2800]James Caviezel[/person]), który na skutek wysłanego z zawiści fałszywego donosu zostaje skazany na dożywocie i wtrącony do lochów zamku If. Dzięki splotowi okoliczności nie tylko udaje mu się po czternastu latach zbiec z więzienia, ale też zdobyć ogromne bogactwa. Wyrwawszy się na wolność, przyjeżdża do Paryża, gdzie jako hrabia Monte Christo rozpoczyna dzieło zemsty na swoich wrogach...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "willow_1988": {
+    "rating": 7.1,
+    "votes": 63881,
+    "rating_fmt": "⭐ 7.1 (FW 7.1 / IMDb 7.2)",
+    "year": 1988,
+    "imdb_id": "tt0096446",
+    "awards": "Królowa rozkazuje zamordować wszystkie niemowlęta płci żeńskiej. Z życiem uchodzi tylko Elora, ukryta w koszyku puszczonym z prądem rzeki.  Przepowiednia głosi, że rządy okrutnej królowej Bavmordy ([person=9522]Jean Marsh[/person]) ukróci dziewczynka, która ma się właśnie narodzić. Władczyni rozkazuje zamordować wszystkie niemowlęta płci żeńskiej. Z życiem uchodzi tylko mała Elora. Opuszczona w koszyku dziewczynka dociera do wioski karłowatych Nelwynów. Tam Elorę znajduje rolnik Willow ([person=4952]Warwick Davis[/person]), który postanawia oddać dziecko matce. Wyrusza więc w podróż. W drodze do miasta, karzeł poznaje uwięzionego w klatce Madmartigana ([person=60]Val Kilmer[/person]), który za uwolnienie zgadza się pomóc mu w odnalezieniu matki.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "noe wybrany przez boga_2014": {
+    "rating": 5.7,
+    "votes": 105170,
+    "rating_fmt": "⭐ 5.7 (FW 5.6 / IMDb 5.8)",
+    "year": 2014,
+    "imdb_id": "tt1959490",
+    "awards": "Niezwykła misja mająca na celu ocalenie świata.  Zainspirowany biblijną historią o sile ducha, poświęceniu i nadziei [person=12149]Darren Aronofsky[/person] przekłada na język filmu osobistą wizję opowieści o Noem. [person=380]Russell Crowe[/person] wciela się w niej w postać człowieka, który został wybrany do podjęcia wielkiej misji uratowania rodzaju ludzkiego oraz zwierząt przed apokaliptycznym potopem, który ma zniszczyć zepsuty świat. Film podejmuje towarzyszące człowiekowi od zarania dziejów tematy dobra i zła, zniszczenia i miłosierdzia, nadziei oraz rodziny.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "33_2015": {
+    "rating": 6.9,
+    "votes": 10809,
+    "rating_fmt": "⭐ 6.9 (FW 6.9 / IMDb 6.9)",
+    "year": 2015,
+    "imdb_id": "tt2006295",
+    "awards": "Ekipa specjalistów rozpoczyna akcję mającą na celu uratowanie odciętych od świata górników.  5 sierpnia 2010 roku dochodzi do katastrofy, kiedy kopalnia miedzi i złota w Chile zapada się, więżąc pod ziemią 33 mężczyzn. Członkowie drużyny ratowniczej pracują niestrudzenie przez 69 dni, przebijając się przez ponad 600 metrów skały, by uratować ich z pozornie beznadziejnej sytuacji. Pod gruzem górnicy rozpoczynają rozpaczliwą walkę o przetrwanie, zmagając się z morderczym upałem, głodem i pragnieniem. Na oczach ich rodzin, przyjaciół i reszty świata trwa wyścig z czasem i sprawdzian ludzkiego ducha.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "joanna d arc_1999": {
+    "rating": 6.7,
+    "votes": 40877,
+    "rating_fmt": "⭐ 6.7 (FW 6.9 / IMDb 6.4)",
+    "year": 1999,
+    "imdb_id": "tt0151137",
+    "awards": "Młoda dziewczyna staje na czele francuskich wojsk.  Joanna d'Arc przyszła na świat w roku 1412 w czasie Wojny Stuletniej. Niejednokrotnie była świadkiem najazdów angielskiego rycerstwa na okoliczne wioski i związanych z nimi ludzkich dramatów. W wieku lat trzynastu nadzwyczaj religijna dziewczynka znajduje miecz. Wkrótce potem ma wizję, która umacnia ją w przekonaniu, że jej świętą misją jest uratować ojczyznę przed najeźdźcą...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "dzien zaglady_1998": {
+    "rating": 6.5,
+    "votes": 37284,
+    "rating_fmt": "⭐ 6.5 (FW 6.6 / IMDb 6.3)",
+    "year": 1998,
+    "imdb_id": "tt0120647",
+    "awards": "W obliczu ostatecznej katastrofy.  W kierunku Ziemi zbliża się ogromnych rozmiarów kometa. Wszystkie badania wykazują, że jej uderzenie zniszczy wszelkie formy życia. Zostają podjęte ostatnie próby uniknięcia tragedii lub przynajmniej zmniejszenia jej skutków. W kierunku komety wyrusza statek z grupą astronautów, którymi kieruje Spurgeon Tanner ([person=32]Robert Duvall[/person]). Cały świat z uwagą śledzi każde ich posunięcie. Minuta po minucie nieubłaganie zbliża się dzień zagłady.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kapitan szablozeby i skarb piratow_2014": {
+    "rating": 5.0,
+    "votes": 557,
+    "rating_fmt": "⭐ 5.0 (FW 4.8 / IMDb 5.2)",
+    "year": 2014,
+    "imdb_id": "tt2664712",
+    "awards": "Dowódca korsarzy chce dotrzeć do Wyspy Skarbów. Konkurent kradnie mu okręt. 11letni Paluch ratuje sytuację. Warte uwagi efekty specjalne i scenografia.  Kapitan Szablozęby, postrach mórz i oceanów od Karaibów aż po kraniec świata, wraz ze swoją nieustraszoną załogą powraca do rodzimego portu. Podczas niebezpiecznej podróży w ręce piratów wpadła stara mapa, która wskazuje drogę na legendarną Wyspę Skarbów. Jak głosi plotka, skarbiec króla wyspy kryje wielkie bogactwo. Kapitan Szablozęby już szykuje się do rejsu, jednak chciwy konkurent, Bjorn Wredny, kradnie mu ukochany statek – „Mroczną Damę”. Złodziej nie wie, że pod pokładem skrył się 11-letni Paluch. Chłopiec, który od najmłodszych lat marzy o służbie pod banderą trupiej czaszki, ma teraz niepowtarzalną okazję, aby dowieść swojej przydatności. Dzięki odwadze i pomysłowości Palucha, Szablozębemu udaje się odzyskać okręt. Chłopiec zostaje oficjalnie przyjęty do załogi „Mrocznej Damy” i razem z piratami wyrusza na wyprawę swojego życia.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "skapiec_1980": {
+    "rating": 6.9,
+    "votes": 25281,
+    "rating_fmt": "⭐ 6.9 (FW 7.2 / IMDb 6.6)",
+    "year": 1980,
+    "imdb_id": "tt0078813",
+    "awards": "Dusigrosz znajduje sposób na powiększenie swojego majątku.  Stary Harpagon to straszny skąpiec. Codziennie nosi ten sam czarny kaftan, pomimo że jest zniszczony. A jego niechęć do dawania datków na biednych czy kościół jest wręcz legendarna. Jego jedyną troską jest codzienne oglądanie zakopanych w ogrodzie 10.000 skudów. Jednakże sądzi, że to za mało. Postanawia więc powydawać bogato swe dzieci. Nie liczy się zupełnie z ich własnymi planami życiowymi.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wielka wloczega_1966": {
+    "rating": 7.8,
+    "votes": 20804,
+    "rating_fmt": "⭐ 7.8 (FW 7.8 / IMDb 7.8)",
+    "year": 1966,
+    "imdb_id": "tt0060474",
+    "awards": "Szalona wędrówka przez okupowaną Francję.  Malarz pokojowy i dyrygent mają za zadanie eskortować lotników zestrzelonych nad Francją podczas wojny. Ich podróż pełna jest niesamowitych przygód,a fabuła pełna niezliczonych zwariowanych pomysłów.\r\n\r\n[Opis Dystrybutora]",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "fatima_2020": {
+    "rating": 6.7,
+    "votes": 2116,
+    "rating_fmt": "⭐ 6.7 (FW 6.8 / IMDb 6.6)",
+    "year": 2020,
+    "imdb_id": "tt2197936",
+    "awards": "Rok 1917, trwa I wojna światowa. W Fatimie 10-letniej Łucji (Stephanie Gil) i jej krewnym ukazuje się Matka Boska. Ma dla nich przesłanie, które powinien usłyszeć cały świat.  Jest rok 1917. Świat pogrążony jest w mrokach Pierwszej Wojny Światowej. Do małej portugalskiej wioski Fatimy, podobnie jak do tysięcy miejscowości w całej Europie płyną dramatyczne wieści o tysiącach zabitych.  Do domów wracają okaleczeni i pozbawieni nadziei weterani. W takich chwilach łatwo o zwątpienie i załamanie. Właśnie w takich okolicznościach troje dzieci z Fatimy doświadcza niezwykłego spotkania. Ich oczom ukazuje się Matka Boża, by przekazać im przepowiednie dla świata. Relacje dzieci z tego wydarzenia spotykają się z wielkim sceptycyzmem zarówno osób świeckich jaki i przedstawicieli Kościoła.\nNikt nie traktuje poważnie dziecięcych opowieści. A jednak wieść o cudownych wydarzeniach w Fatimie roznosi się coraz dalej. Tysiące pielgrzymów przybywają do wioski, a cud fatimski zaczyna odmieniać ich losy, wywierając przemożny wpływ także na instytucję Kościoła i na cały świat.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "niebo istnieje naprawde_2014": {
+    "rating": 6.3,
+    "votes": 47296,
+    "rating_fmt": "⭐ 6.3 (FW 6.6 / IMDb 5.9)",
+    "year": 2014,
+    "imdb_id": "tt1929263",
+    "awards": "Dziecko opowiada o swojej wizycie w innym świecie.  Film \"Niebo istnieje... naprawdę\" zrealizowany został na podstawie światowego bestselleru. To prawdziwa historia Coltona Burpo ([person=2050567]Connor Corum[/person]) - chłopca, który podczas operacji znalazł się na granicy życia i śmierci. Rodzice ([person=81028]Kelly Reilly[/person] i [person=3515]Greg Kinnear[/person]) nie spodziewali się, że w ciągu następnych kilku miesięcy usłyszą piękną i wyjątkową opowieść o podróży chłopca do nieba i z powrotem. Czteroletni Colton oznajmił rodzicom, że opuścił swoje ciało podczas zabiegu, opisując, co jego rodzice robili, gdy on leżał na stole operacyjnym. Mówił o wizycie w niebie i przekazywał historie ludzi, z którymi spotkał się w zaświatach, a których nigdy wcześniej nie widział. Wspominał nawet o zdarzeniach mających miejsce jeszcze przed jego narodzinami. \nZaskoczył opisami i mało znanymi szczegółami o niebie, dokładnie pasującymi do tego, co podaje Biblia, a o których, jako dziecko nie mógł wiedzieć. Colton opowiadał z rozbrajającą dziecięcą niewinnością o spotkaniach z członkami rodziny, którzy już odeszli z tego świata.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pani doubtfire_1993": {
+    "rating": 7.0,
+    "votes": 144688,
+    "rating_fmt": "⭐ 7.0 (FW 7.0 / IMDb 7.1)",
+    "year": 1993,
+    "imdb_id": "tt0107614",
+    "awards": "Daniel zaczyna pracę u byłej żony.  Jak daleko może posunąć się zwykły ojciec, aby spędzać więcej czasu ze swoimi dziećmi? Po niefortunnym rozwodzie Daniel Hillard ([person=223]Robin Williams[/person]) dowiaduje się, że jego była żona ([person=8057]Sally Field[/person]) poszukuje gosposi. Bez namysłu podejmuje tę pracę. Wymaga to jednak drobnej charakteryzacji. Mimo dużego biustu i obfitych bioder [person=223]Robin Williams[/person] zachowuje właściwą sobie witalność, a jego poczucie humoru przekracza wszelkie granice.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "ogniem i mieczem_1999": {
+    "rating": 6.9,
+    "votes": 135088,
+    "rating_fmt": "⭐ 6.9 (FW 6.9 / IMDb 7.0)",
+    "year": 1999,
+    "imdb_id": "tt0128378",
+    "awards": "XVII wiek. Skrzetuski zakochuje się w Helenie, którą przyrzeczono Bohunowi. W tym czasie Kozacy organizują powstanie.  Film jest adaptacją pierwszej części trylogii [person=666906]Henryka Sienkiewicza[/person], która opowiada o wielkich namiętnościach - miłości i nienawiści, zazdrości i żądzy władzy.\n\nKresy Wschodnie, XVII w. Zbliża się wojna pomiędzy Rzeczpospolitą a Kozaczyzną. Jan Skrzetuski ([person=224]Michał Żebrowski[/person]), żołnierz chorągwi księcia Jeremiego Wiśniowieckiego ([person=99]Andrzej Seweryn[/person]), wraca z Krymu i przypadkiem uwalnia z rąk opryszków dowódcę Kozaków, Bohdana Chmielnickiego ([person=216723]Bogdan Stupka[/person]). Wracając do Łubniów, pomaga Helenie Kurcewiczównie ([person=97]Izabella Scorupco[/person]) i zakochuje się w niej na umór. Nie wie jednak, że kobieta została już obiecana innemu mężczyźnie, Bohunowi ([person=421]Aleksandr Domogarow[/person]).",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "gesia skorka 2_2018": {
+    "rating": 5.5,
+    "votes": 5000,
+    "rating_fmt": "⭐ 5.5 (FW 5.4 / IMDb 5.6)",
+    "year": 2018,
+    "imdb_id": "tt5664636",
+    "awards": "Sonny i Sam podczas sprzątania opuszczonego domu znajdują tajemniczy manuskrypt. Uwalniają ukryte w księdze potwory.  Sonny i Sam to przyjaciele, którzy przez przypadek otwierają manuskrypt \"Gęsiej skórki\" i przywołują różne stwory znane z uniwersum serii. Nie zdają sobie sprawy, w jakim niebezpieczeństwie znalazło się miasto. Proszą o pomoc siostrę Sonny'ego, Sarah, by walczyła razem z nimi przeciwko potworom.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wladca pierscieni wojna rohirrimow_2024": {
+    "rating": 6.0,
+    "votes": 8454,
+    "rating_fmt": "⭐ 6.0 (FW 5.8 / IMDb 6.3)",
+    "year": 2024,
+    "imdb_id": "tt14824600",
+    "awards": "Lord Dunlending szuka zemsty za śmierć ojca. Napada na lud Helma. Córka władcy staje w obliczu kryzysu.  Akcja rozgrywa się 183 lata przed wydarzeniami opisanymi w oryginalnej trylogii filmowej. Nagły atak Wulfa, sprytnego i bezwzględnego lorda Dunlendinga, szukającego zemsty za śmierć ojca, zmusza Helma i jego lud do podjęcia śmiałej ostatniej walki w starożytnej twierdzy Hornburg - potężnej fortecy, która później stanie się znana jako Helmowy Jar. Znajdując się w coraz bardziej rozpaczliwej sytuacji, Hera, córka Helma, musi poprowadzić ruch oporu przeciwko śmiertelnemu wrogowi, który chce ich całkowitego zniszczenia.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "sami swoi poczatek_2023": {
+    "rating": 5.7,
+    "votes": 21157,
+    "rating_fmt": "⭐ 5.7 (21k)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Barwna opowieść o tym, co Pawlak i Kargul robili, zanim dotarli na Ziemie Odzyskane.  Pawlak i Kargul - bohaterowie kultowej trylogii \"Sami swoi\" przed trafieniem na Ziemie Odzyskane byli sąsiadami we wsi na Podolu. I już wtedy było to wybuchowe sąsiedztwo... \"Sami swoi. Początek\" to barwna opowieść, w której drobne złośliwości przeplatają się z życiowymi kamieniami milowymi. Charakterne postaci w połączeniu z wielką historią w tle zabiorą widza w sentymentalną, ale też porywającą i pełną humoru podróż.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wonder woman_2017": {
+    "rating": 6.9,
+    "votes": 160233,
+    "rating_fmt": "⭐ 6.9 (FW 6.6 / IMDb 7.3)",
+    "year": 2017,
+    "imdb_id": "tt0451279",
+    "awards": "Niepokonana wojowniczka poznaje prawdę o wielkiej wojnie. W jej rękach spoczywa przyszłość.  Zanim stała się Wonder Woman, była Dianą, księżniczką Amazonek wyszkoloną na niepokonaną wojowniczkę. Wychowała się na odległej, rajskiej wyspie. Pewnego dnia rozbił się tam amerykański pilot, który opowiedział Dianie o wielkim konflikcie ogarniającym świat. Księżniczka porzuciła więc swój dom przekonana, że może powstrzymać zagrożenie. W walce u boku ludzi, w wojnie ostatecznej, Diana odkrywa pełnię swojej mocy... i swoje prawdziwe przeznaczenie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "paryz moze poczekac_2016": {
+    "rating": 5.9,
+    "votes": 9341,
+    "rating_fmt": "⭐ 5.9 (FW 5.9 / IMDb 5.8)",
+    "year": 2016,
+    "imdb_id": "tt4429194",
+    "awards": "Romans na tle pięknych krajobrazów. Uczucie dopada Anne i Jacques'a podczas wycieczki.  Życie Anne ([person=5234]Diane Lane[/person]) powinno być spełnieniem marzeń. Kobieta jest bowiem żoną bogatego hollywoodzkiego producenta – Michaela ([person=5]Alec Baldwin[/person]) i towarzyszy mu w podróżach po całym świecie. Anne żyje jednak w cieniu zapracowanego i nieobecnego męża, a żar namiętności w ich małżeństwie wypalił się już dawno. Pewnego dnia bliski współpracownik Michaela – beztroski Francuz o imieniu Jacques ([person=269756]Arnaud Viard[/person]), proponuje jej podróż samochodem z odbywającego się w Cannes festiwalu filmowego do Paryża. Zaplanowana na siedem godzin podróż, zamienia się w dwudniową przygodę pełną najlepszego jedzenia, doskonałego wina, zapierających dech widoków, nieoczekiwanego humoru oraz… szczypty romansu.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "moj syn ezra_2023": {
+    "rating": 6.6,
+    "votes": 3205,
+    "rating_fmt": "⭐ 6.6 (FW 6.6 / IMDb 6.5)",
+    "year": 2023,
+    "imdb_id": "tt20315818",
+    "awards": "Wzruszające i zabawne kino drogi. Komik Max bez wiedzy byłej żony zabiera autystycznego syna w pełną wrażeń podróż przez Stany.  Życie aspirującego komika Maxa Bernala to chaos i improwizacja. Mieszka z ojcem, wciąż próbuje przebić się w świecie komedii, ma za sobą nieudane małżeństwo i autystycznego syna o imieniu Ezra, którego kocha nad życie. Na pewno Max nie jest encyklopedycznym wzorcem statecznego ojca, ale serca nie można mu odmówić. Gdy dowiaduje się, że jego była żona za namową lekarza chce umieścić Ezrę w szkole specjalnej, Max bez jej wiedzy zabiera syna w podróż przez Stany. Nie chce pozwolić, by szkolne mury oddzieliły chłopca od zwykłego życia i na zawsze zamknęły go w jego własnym świecie. Wierzy, że „inność” Ezry nie jest wyrokiem skazującym go na funkcjonowanie na marginesie tzw. normalnego świata. Eskapada pełna szalonych perypetii i niezwykłych spotkań będzie dla ojca i syna okazją do odkrycia na nowo łączącej ich więzi i przeżycia przygód, które udowodnią, że „normalność” jest przereklamowana.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "dla ciebie wszystko_2014": {
+    "rating": 7.0,
+    "votes": 80336,
+    "rating_fmt": "⭐ 7.0 (FW 7.3 / IMDb 6.7)",
+    "year": 2014,
+    "imdb_id": "tt1972779",
+    "awards": "Doświadczony przez los mężczyzna spotyka dawną miłość. Budzi się uczucie sprzed lat.  Dawson Cole ([person=7917]James Marsden[/person]) to chłopak wychowywany w rodzinie uważanej w miasteczku za najbardziej niebezpieczną. Jego rodzina skłonna jest do przemocy, ma problemy z alkoholem i jest zamieszana w sprawy związane z narkotykami. Amanda Collier ([person=68219]Michelle Monaghan[/person]) z kolei wychowywana jest w tradycyjnych wartościach, które sprawiły, że chce zostać nauczycielką. Różnice pochodzenia oraz nieprzychylni ludzie sprawiają, że tych dwoje nie może być razem, choć oboje bardzo tego pragną. Dawson, który w młodości zabił człowieka, nie może się z tym pogodzić i pokutuje, żyjąc samotnie i pracując na platformach wiertniczych. Amanda wychodzi za mąż, ma syna Jareda, ale mimo to nie może zaznać szczęścia. Po latach dawni kochankowie spotykają się w rodzinnym miasteczku z okazji pogrzebu starego przyjaciela. Uczucia, którymi kiedyś się darzyli powracają, ale przeszłość i konflikty również powracają ze zdwojoną siłą.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "clifford wielki czerwony pies_2021": {
+    "rating": 6.3,
+    "votes": 5342,
+    "rating_fmt": "⭐ 6.3 (5k)",
+    "year": 2021,
+    "imdb_id": null,
+    "awards": "8-latka opiekuje się szczeniakiem. Chce, aby szybko urósł. Jej życzenie spełnia się w zaskakujący sposób.  Ośmioletnia dziewczynka, Emily Elizabeth marzy o tym, aby jej maleńki, czerwony szczeniak urósł i był silny, nie spodziewa się jednak, że budząc się pewnego ranka znajdzie wielkiego psa w swoim małym mieszkaniu w Nowym Jorku. Emily za wszelką cenę chce, aby ukochany zwierzak został z nią. Postanawia znaleźć czarodzieja, który, przywróci Clifforda do normalnego rozmiaru. Na poszukiwania udaje się ze swoim wujem Caseyem i szkolnym kolegą Owenem. Clifford wzbudza powszechne zaciekawienie. Przyciąga również uwagę złego naukowca, który chce aby Clifford został jego psem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "u pana boga w ogrodku_2007": {
+    "rating": 6.6,
+    "votes": 47890,
+    "rating_fmt": "⭐ 6.6 (FW 6.9 / IMDb 6.3)",
+    "year": 2007,
+    "imdb_id": "tt1105300",
+    "awards": "W Królowym Moście CBŚ ukrywa świadka koronnego. W ślad za nim przybywają bandyci.  W swoim pierwszym filmie o mieszkańcach Królowego Mostu reżyser naszkicował portret wsi na Kresach Wschodnich, gdzie tradycja i dawne wartości stworzyły zabawny melanż z nowym stylem bycia. Z ciepłym dystansem pokazywał, jak miejscowy policjant ugniata nogami w beczce kapustę, rozmawiając jednocześnie przez telefon komórkowy, a proboszcz za pomocą pagera przypomina parafianom o odmówieniu pokuty. Jednocześnie przekonywał, że ta kresowa społeczność broni się przed zawirowaniami współczesności i zazdrośnie chroni swoje prowincjonalizmy.\r\n\r\nOd tego czasu w Królowym Moście niewiele się zmieniło. Wciąż to jest to samo miasteczko z kościelną wieżą górującą nad okolicą i złotą kopułą cerkwi, z charyzmatycznym proboszczem i posłusznymi parafianami. To świat, w którym czas łaskawie się zatrzymał.\r\n\r\nW filmie \"U Pana Boga w ogródku\" powracają ci sami bohaterowie - miejscowy policjant i ksiądz proboszcz, który ma niemal całkowitą władzę nad duszami parafian. Pojawiają się też nowe postaci. Do Królowego Mostu trafia najgorszy absolwent szkoły policyjnej. Przełożeni skierowali go tu tylko dlatego, że jest ciamajdą z  tzw. wysoko postawionym zapleczem rodzinnym, a miejscowość słynie z minimalnej przestępczości. Tymczasem pod lasem osiedla się świadek koronny, któremu trzeba zapewnić ochronę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "aquaman i zaginione krolestwo_2023": {
+    "rating": 5.4,
+    "votes": 23393,
+    "rating_fmt": "⭐ 5.4 (FW 5.2 / IMDb 5.6)",
+    "year": 2023,
+    "imdb_id": "tt9663764",
+    "awards": "Heros jednoczy siły ze swoim bratem, by ocalić mieszkańców Atlantydy.  Poprzednio Czarna Manta nie zdołał pokonać Aquamana. Wciąż jednak pragnie pomścić śmierć ojca i dlatego nie cofnie się przed niczym, żeby rozprawić się z Aquamanem raz na zawsze. Tym razem Czarna Manta jest potężniejszy niż dotąd. Posiadł moc mitycznego Czarnego Trójzęba, który kryje w sobie starożytną i złowrogą siłę. Aby go pokonać, Aquaman nieoczekiwanie prosi o pomoc Orma, swojego uwięzionego brata i poprzedniego króla Atlantydy. Obaj muszą zapomnieć o różnicach, żeby ochronić królestwo oraz ocalić rodzinę Aquamana i cały świat przed nieodwracalnym zniszczeniem. Wszyscy wyżej wymienieni wracają do swoich ról. [person=140909]Jason Momoa[/person] gra Arthura Curry'ego / Aquamana, który teraz dzieli obowiązki króla Atlantydy i świeżo upieczonego ojca. [person=109718]Patrick Wilson[/person] wciela się w Orma, przyrodniego brata Aquamana i jego głównego wroga, który teraz musi podjąć się nowej roli niechętnego sprzymierzeńca brata. [person=309515]Amber Heard[/person] pojawia się w roli Mery, królowej Atlantydy i matki spadkobiercy tronu. [person=2256011]Yahya Abdul-Mateen II[/person] wciela się w Czarną Mantę, bardziej niż dotąd pałającego żądzą zemsty za śmierć ojca i pragnącego zagłady Aquamana z rodziną oraz całej Atlantydy, zaś [person=59]Nicole Kidman[/person] gra Atlannę, zaciekłą przywódczynię i matkę o sercu wojownika. W swoich rolach powracają także [person=260]Dolph Lundgren[/person] jako król Nereus i [person=289765]Randall Park[/person] jako doktor Stephen Shin.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "egzekutor_1996": {
+    "rating": 6.3,
+    "votes": 21140,
+    "rating_fmt": "⭐ 6.3 (FW 6.4 / IMDb 6.2)",
+    "year": 1996,
+    "imdb_id": "tt0116213",
+    "awards": "Urzędniczka odkrywa niebezpieczny spisek.  John Kruger ([person=210]Arnold Schwarzenegger[/person]) to najlepszy agent specjalny z elitarnej grupy oficerów pracujących dla Programu Ochrony Świadków. Kiedy zawodzi wszystko i nie ma już nadziei, wtedy wkracza do akcji Kruger. Ocala świadków, niszcząc wszelkie dowody ich istnienia. To jedyny sposób, by uchronić ich przed śmiertelnym niebezpieczeństwem. Lee Cullen ([person=72389]Vanessa Williams[/person]) pracuje dla jednego z departamentów obrony. Przypadkowo odkrywa plan przekazania supernowoczesnej i szalenie niebezpiecznej broni w ręce terrorystów. Zawiadamia FBI nie wiedząc, iż spisek sięga znacznie wyżej... Aby przetrwać Lee Cullen potrzebuje kogoś, kto będzie ją chronił. Potrzebuje Egzekutora.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wszystko wszedzie naraz_2022": {
+    "rating": 7.2,
+    "votes": 95893,
+    "rating_fmt": "⭐ 7.2 (FW 6.8 / IMDb 7.7)",
+    "year": 2022,
+    "imdb_id": "tt6710474",
+    "awards": "Kobieta poznaje warianty dróg życiowych, którymi nie poszła.  Evelyn Wang ([person=3310]Michelle Yeoh[/person]), borykająca się z trudami codzienności mama w średnim wieku, natrafia na klucz do \"multiwersum\": sieci przecinających się ze sobą światów, gdzie może zbadać wszystkie drogi życiowe, którymi nie poszła: począwszy od gwiazdy filmowej do uznanego szefa kuchni Teppanyaki. Kiedy pojawiają się mroczne siły, Evelyn będzie musiała wykorzystać wszystko, co ma i wszystko, czym kiedyś mogła być, aby ocalić to, co jest dla niej najważniejsze: jej rodzinę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "bfg bardzo fajny gigant_2016": {
+    "rating": 6.1,
+    "votes": 18960,
+    "rating_fmt": "⭐ 6.1 (FW 5.9 / IMDb 6.3)",
+    "year": 2016,
+    "imdb_id": "tt3691740",
+    "awards": "Osierocona Sophie nocą zauważa tajemniczą istotę. Zostaje zabrana do Krainy Olbrzymów.  Porywająca opowieść o małej dziewczynce z sierocińca i tajemniczym Olbrzymie, który odkrywa przed nią cuda i sekrety magicznej krainy. W środku nocy, gdy wszyscy ludzie śpią w najlepsze, mroczne istoty wychodzą z ukrycia i przejmują na kilka chwil cały świat. Takie historie od dziecka słyszała rezolutna dziesięciolatka o imieniu Sophie. Nic więc dziwnego, że kiedy dziewczynka pewnej nocy nie mogła zasnąć, wygramoliła się z łóżka, założyła okulary i wychyliła przez okno, by ujrzeć świat w poświacie księżycowego blasku. Znana jej dobrze ulica dziś wyglądała jakoś inaczej… Nagle z cienia wynurzyło się coś ogromnego i zaczęło zmierzać w jej kierunku.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "oczy aniola_2001": {
+    "rating": 6.1,
+    "votes": 18071,
+    "rating_fmt": "⭐ 6.1 (FW 6.4 / IMDb 5.7)",
+    "year": 2001,
+    "imdb_id": "tt0225071",
+    "awards": "Policjantka zakochuje się w tajemniczym wybawicielu.  Chicago. Dręczona traumatycznymi wspomnieniami z dzieciństwa policjantka Sharon Pogue ([person=323]Jennifer Lopez[/person]) jest w zupełności oddana swojej pracy. Zaniedbuje przez to życie prywatne. Pewnego dnia podczas pościgu za groźnym przestępcą, zostaje uratowana przez tajemniczego nieznajomego ([person=2800]Jim Caviezel[/person]), który każe mówić na siebie \"Catch\". Pomiędzy obojgiem rodzi się uczucie. Sharon jednak nie wie, że skryty i dziwnie zachowujący się \"Catch\", skrywa tragiczną oraz bolesną przeszłość.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "jeszcze raz_2008": {
+    "rating": 4.5,
+    "votes": 34949,
+    "rating_fmt": "⭐ 4.5 (FW 5.2 / IMDb 3.7)",
+    "year": 2008,
+    "imdb_id": "tt1130842",
+    "awards": "Wyreżyserowany przez Mariusza Malca film, który odniósł sukces frekwencyjny.  Najnowsza komedia romantyczna producentów wielkich kinowych hitów: \"[film=195203]Ja wam pokażę[/film]\" oraz \"[film=348754]Ryś[/film]\". \"Jeszcze raz\" to historia opowiadająca jak rodzi się równocześnie dojrzała i młodzieńcza miłość, romantyczne perypetie matki i córki oraz ojca i syna. Autorką scenariusza jest największa polska scenarzystka [person=12775]Ilona Łepkowska[/person], autorka największych telewizyjnych i kinowych hitów oraz [person=754865]Erwin Wencel[/person]. Autorem muzyki do filmu będzie [person=12201]Piotr Rubik[/person].",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "krzyk_1996": {
+    "rating": 7.1,
+    "votes": 84072,
+    "rating_fmt": "⭐ 7.1 (FW 6.8 / IMDb 7.5)",
+    "year": 1996,
+    "imdb_id": "tt0117571",
+    "awards": "Nastolatki padają ofiarą mordercy - wielbiciela filmów grozy.  Sidney tęskni za ciepłem domowego ogniska. Rok wcześniej w tragicznych okolicznościach straciła matkę. Ojciec, pochłonięty sprawami zawodowymi, bywa gościem w domu. Tymczasem w okolicy dochodzi do dramatycznych wydarzeń. Jej szkolna koleżanka, Casey, którą ktoś dręczył anonimowymi telefonami, w tragicznych okolicznościach traci chłopaka. Również sama Casey zostaje zamordowana. Okoliczności popełnionych morderstw wskazują, iż sprawcą jest ten sam człowiek, znawca i miłośnik kina grozy. Na liście podejrzanych jest chłopak Sidney.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "handlarz dzielami sztuki hitlera_2014": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2014,
+    "imdb_id": null,
+    "awards": "W 2013 roku w Monachium odkryto kolekcję zaginionych dzieł m.in. obrazy Henriego Matisse'a i Thomasa Couture'a. Właścicielem zbioru był Cornelius Gurlitt, syn zaufanego marszanda Adolfa Hitlera.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zulus czaka cytadela_2001": {
+    "rating": 6.6,
+    "votes": 291,
+    "rating_fmt": "⭐ 6.6 (291)",
+    "year": 2001,
+    "imdb_id": null,
+    "awards": "Katherine poszukuje zaginionego ojca. Dociera do Afryki na statku handlarza niewolników. Odkrywa, że ojciec przyjaźni się z wodzem Zulusów.  Biografia szłynnego wodza Zulusów. Joshua Sinclair ponownie wraca do tego tematu, tym razem jednak koncentruje się bardziej na postaci Farwella i jego córki Elizabeth, a sam Chaka jest tylko dodatkiem do historii miłosnej pomiędzy handlarzem niewolników Mungo i córką Farwella Elizabeth. Ponadto film stara się być poprawny politycznie, przez to historia i sam Chaka stają się jedynie tłem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "high life_2024": {
+    "rating": 5.2,
+    "votes": 5266,
+    "rating_fmt": "⭐ 5.2 (5k)",
+    "year": 2018,
+    "imdb_id": null,
+    "awards": "Raper Urban planuje wziąć udział w konkursie talentów. Jego ojciec - rolnik, który wolałby przekazać mu rodzinne gospodarstwo - nie pochwala tego pomysłu. Wspólna podróż niespodziewanie ich zbliża.  Gdzieś w odległej galaktyce, poza naszym układem słonecznym. Monte ([person=164450]Robert Pattinson[/person]) wychowuje swoją córeczkę Willow w całkowitej izolacji na pokładzie statku kosmicznego. Stał się ojcem wbrew własnej woli – pobrano jego spermę i użyto jej do inseminacji Boyse ([person=1926894]Mia Goth[/person]). Kiedyś byli częścią załogi eks-więźniów i skazańców, których wysłano niczym króliki doświadczalne w kosmos, aby odnaleźli czarną dziurę najbliższą Ziemi. Teraz, po latach, na pokładzie pozostał sam Monte i jego córka.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "tajemniczy jezus_2014": {
+    "rating": 6.1,
+    "votes": 34,
+    "rating_fmt": "⭐ 6.1 (FW 5.9 / IMDb 6.3)",
+    "year": 2014,
+    "imdb_id": "tt3622836",
+    "awards": "Losy Jezusa to jedna z najbardziej intrygujących opowieści w historii ludzkości. Twórcy dokumentu pokazują kluczowe momenty z jego życia.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zaginiona ksiega nostradamusa_2007": {
+    "rating": 5.3,
+    "votes": 134,
+    "rating_fmt": "⭐ 5.3 (134)",
+    "year": 2007,
+    "imdb_id": null,
+    "awards": "Rysunki jasnowidza.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "morderstwa we francji saint martin_2024": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Dwoje rywalizujących ze sobą policjantów, kapitan Firmain i inspektor de Voort (Aude Legastelois), muszą współpracować, by rozwiązać sprawę zabójstwa.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "ania z zielonego wzgorza_2016": {
+    "rating": 7.3,
+    "votes": 47926,
+    "rating_fmt": "⭐ 7.3 (48k)",
+    "year": 1985,
+    "imdb_id": null,
+    "awards": "11-letnią osieroconą Annę Shirley przygarnia rodzeństwo, Maryla i Mateusz Cuthbertowie, którzy mieszkają na Wyspie Księcia Edwarda. Rezolutna dziewczynka bez trudu podbija ich serca.  Film opowiada o młodej, osieroconej dziewczynie Ani Shirley ([person=43946]Megan Follows[/person]). Na co dzień zmaga się ona z otaczającym ją cierpieniem, a jednak nie poddaje się mu i zatapia w lepszym świecie - świecie wyobraźni. Pewnego dnia los się do niej uśmiecha - zostaje wysłana na Wyspę Księcia Edwarda do domu Maryli ([person=3679]Colleen Dewhurst[/person]) i Mateusza ([person=7426]Richard Farnsworth[/person]). Dziewczynka nie może ukryć radości, a wiadomość o tym, że zaszła pomyłka jest dla niej poważnym ciosem. Nieugięta Maryla decyduje się odesłać ją z powrotem do sierocińca. Na szczęście górę nad chłodnym rozsądkiem bierze serce i nieśmiałe uczucia, którymi Maryla obdarza Anię. Rudowłosa mieszkanka Zielonego Wzgórza jest osobą kłopotliwą i stale popełnia jakieś błędy, nieustannie wpędzając się w coraz to nowsze tarapaty. Z czasem rezolutna Ania dorasta, znajduje \"przyjaciółkę od serca\" w osobie Diany Barry ([person=122587]Schuyler Grant[/person]), rywala w Gilbercie Blythe ([person=82435]Jonathan Crombie[/person]), wroga w Josie Pye ([person=79554]Miranda de Pencier[/person]) i kochających ją opiekunów - Marylę i Mateusza.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "o psie ktory wrocil do domu_2019": {
+    "rating": 6.8,
+    "votes": 13893,
+    "rating_fmt": "⭐ 6.8 (FW 6.8 / IMDb 6.7)",
+    "year": 2019,
+    "imdb_id": "tt7616798",
+    "awards": "Szczeniak Bella zostaje rozdzielony z właścicielem. Decyduje się go odnaleźć. Przeżywa wiele przygód.  \"O psie, który wrócił do domu\" to ciepła, pełna przygód opowieść o Belli, psie, który przebył 400 mil, by odnaleźć Lucasa, obiecującego studenta medycyny, człowieka, którego kocha. Zanim uda jej się wrócić do domu, czeka ją mnóstwo niezwykłych przygód. Na swej drodze spotka i zamieszkujące góry lwiątko, i bezdomnego weterana, któremu przywróci wiarę w życie. Bo Bella właśnie taka jest, ktokolwiek stanie na jej drodze, od razu zakochuje się w niej.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "kupilismy zoo_2011": {
+    "rating": 6.9,
+    "votes": 62661,
+    "rating_fmt": "⭐ 6.9 (FW 6.9 / IMDb 7.0)",
+    "year": 2011,
+    "imdb_id": "tt1389137",
+    "awards": "Samotny ojciec postanawa prowadzić zoo.  Komediodramat w reżyserii wyróżnionego Oscarem [person=11498]Camerona Crowe'a[/person] ([b]\"[film=1339]U progu sławy[/film]\"[/b], [b]\"[film=664]Jerry Maguire[/film]\"[/b]), ekranizacja bestsellerowej książki, opartej na autentycznej historii. Pełna humoru, ale i wzruszająca opowieść o ojcu, który kupuje swej rodzinie niezwykły prezent: ogród zoologiczny z dzikim zwierzętami. Wraz z dziećmi porzuca życie w mieście i wyrusza na prowincję, by przewrócić podupadłemu zoo jego dawną świetność, a przy okazji zacząć życie od nowa i przeżyć przygodę, o której inni mogą tylko pomarzyć. W rolach głównych: nagrodzony Oscarem [person=158]Matt Damon[/person] ([b]\"[film=31497]Tożsamość Bourne’a[/film]\"[/b], [b]\"[film=21]Buntownik z wyboru[/film]\"[/b]) oraz nominowani do Oscara [person=4592]Scarlett Johansson[/person] ([b]\"[film=150528]Wszystko gra[/film]\"[/b], [b]\"[film=104454]Między słowami[/film]\"[/b]) i [person=5139]Thomas Haden Church[/person] ([b]\"[film=104543]Bezdroża[/film]\"[/b], [b]\"[film=138713]Spider-Man 3[/film]\"[/b]).",
+    "awards_badges": "🏆 Oscar",
+    "awards_bonus": 10.0
+  },
+  "wielki dar_2017": {
+    "rating": 7.7,
+    "votes": 97898,
+    "rating_fmt": "⭐ 7.7 (FW 7.7 / IMDb 7.6)",
+    "year": 2017,
+    "imdb_id": "tt4481414",
+    "awards": "Frank wychowuje siostrzenicę, która przejawia niezwykłe zdolności matematyczne. Musi stoczyć sądową batalię z jej babcią.  Frank Adler to samotny mężczyzna, który mieszka w małym miasteczku na Florydzie i wychowuje „genialne dziecko” – swą wybitnie uzdolnioną siostrzenicę Mary. Frank pragnie, aby Mary uczyła się w zwykłej szkole, ale jego bogata i wpływowa matka Evelyn ma inne plany – chce wziąć edukację wnuczki w swoje ręce, rozdzielając tym samym Franka i Mary. Evelyn ma po swej stronie całą armię prawników, podczas gdy Frank może liczyć tylko na dwie osoby: życzliwą mu gospodynię, Robertę i nauczycielkę Mary, Bonnie, z którą zaczyna łączyć go uczucie. Wkrótce uświadamia sobie, że podobnie, jak wybitne zdolności są darem losu dla Mary, tak pojawienie się dziewczynki w jego życiu jest darem dla niego samego.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "z boza pomoca_2023": {
+    "rating": 5.1,
+    "votes": 685,
+    "rating_fmt": "⭐ 5.1 (FW 4.7 / IMDb 5.5)",
+    "year": 2023,
+    "imdb_id": "tt13929998",
+    "awards": "Podróżujący z rodziną prywatnym samolotem Doug White odkrywa, że pilot zmarł. Przejmuje stery i desperacko walczy o przeżycie.  \"Z bożą pomocą\" opowiada o wstrząsającej podróży samolotem pasażera Douga White'a ([person=275]Dennis Quaid[/person]). Kiedy niespodziewanie podczas lotu umiera pilot, mężczyzna, by uratować siebie i całą swoją rodzinę, musi siąść za sterami i bezpiecznie sprowadzić maszynę na ziemię. Niezwykła historia o wierze i przetrwaniu, która zdarzyła się na prawdę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "zmartwychwstaly_2016": {
+    "rating": 6.5,
+    "votes": 15202,
+    "rating_fmt": "⭐ 6.5 (FW 6.5 / IMDb 6.4)",
+    "year": 2016,
+    "imdb_id": "tt3231054",
+    "awards": "Trybun Clavius zostaje wyznaczony do zbadania sprawy zniknięcia ciała Jezusa.  [person=10173]Kevin Reynolds[/person], twórca filmu \"[film=9183]Robin Hood - książę złodziei[/film]\", przedstawia historię zmartwychwstania Chrystusa. Na prośbę Poncjusza Piłata wpływowy rzymski setnik, Clavius, rozpoczyna śledztwo w sprawie rzekomego zmartwychwstania żydowskiego mesjasza oraz poszukiwania zaginionego ciała Jezusa z Nazaretu. Ma to powstrzymać powstanie, do którego w 40 dni po zmartwychwstaniu Chrystusa dochodzi pośród ludu Jeruzalem.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "korea polnocna w glowie dyktatora dylemat_2021": {
+    "rating": 6.9,
+    "votes": 24,
+    "rating_fmt": "⭐ 6.9 (24)",
+    "year": 2021,
+    "imdb_id": null,
+    "awards": "Specjaliści omówią motywy działania Kim Dzong Una. Północnokoreański dyktator podejmuje starania, aby ocalić swoje państwo przed upadkiem. Jednocześnie nie zamierza zmienić sposobu sprawowania władzy.  Film podejmuje próbę analizy rządów [person=2872837]Kim Jong-una[/person], który objął władzę w Korei Północnej w 2011 roku. Północnokoreański dyktator czyni starania, aby ocalić swoje państwo przed upadkiem. Kraj jego objęty jest wieloma sankcjami. Podejmuje więc szereg działań, w tym dyplomatycznych, aby złagodzić nałożone sankcje. Jednocześnie nie zamierza zmienić sposobu sprawowania władzy. Wciąż sprawuje absolutną kontrolę nad narodem, prowadząc bezwzględną politykę wewnętrzną.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "forrest gump_1994": {
+    "rating": 8.8,
+    "votes": 2250000,
+    "rating_fmt": "⭐ 8.8 (2.2M)",
+    "year": 1994,
+    "awards": "Won 6 Oscars, including Best Picture and Best Actor.",
+    "awards_badges": "🏆 Oscar (6) | 👑 Główna Kategoria",
+    "awards_bonus": 20.0
+  },
+  "david attenborough tajemniczy swiat dzwiekow w poszukiwaniu glosu_2024": {
+    "rating": 8.0,
+    "votes": 1208,
+    "rating_fmt": "⭐ 8.0 (1k)",
+    "year": 2025,
+    "imdb_id": null,
+    "awards": "Twórcy dokumentu badają rolę, jaką w naturze odgrywają dźwięki. Dzięki zaawansowanej technologii możemy zarejestrować odgłosy, których nie wychwytuje ludzkie ucho. Narratorem jest David Attenborough.  [person=46796]David Attenborough[/person] czerpie z gromadzonego przez całe życie doświadczenia, aby zaprezentować najbardziej spektakularne podwodne siedliska Ziemi. Pokazuje, że jesteśmy w najwspanialszym okresie do odkrywania oceanu, i podkreśla jego kluczowe znaczenie. Ukazując największe wyzwania stojące przed oceanem, [person=46796]Attenborough[/person] niesie nadzieję: szansa na odbudowę życia morskiego na niespotykaną dotąd skalę jest w zasięgu ręki.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "strach_1954": {
+    "rating": 6.3,
+    "votes": 328,
+    "rating_fmt": "⭐ 6.3 (328)",
+    "year": 1954,
+    "imdb_id": "tt0047336",
+    "awards": "Mężatka ucina kontakt z kochankiem. Pada ofiarą szantażu. Nie wie, że mąż z sadystyczną satysfakcją obserwuje jej zmagania.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "na ostrzu szpady_1997": {
+    "rating": 6.8,
+    "votes": 1336,
+    "rating_fmt": "⭐ 6.8 (1k)",
+    "year": 1997,
+    "imdb_id": "tt0118756",
+    "awards": "Lagardere chce pomścić śmierć przyjaciela, którego córkę wychował.  Francja, przełom XVII i XVIII wieku. Zamożny arystokrata każe zamordować swego kuzyna,\r\nhrabiego de Nevers. Przyjaciel ratuje przed siepaczami córkę ofiary, wyjeżdża na prowincję -\r\ni przez kilkanaście lat przygotowuje zemstę.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "do raju_2023": {
+    "rating": 6.3,
+    "votes": 235,
+    "rating_fmt": "⭐ 6.3 (235)",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "Na pograniczu UE 17-letnia Mila jest uwięziona w przemytniczej rzeczywistości swojej rodziny. W końcu postanawia popełnić samobójstwo. Plany krzyżuje uchodźca, który z całych sił walczy o przetrwanie.  Pogranicze Unii Europejskiej. Siedemnastoletnia Mila wegetuje w cieniu przemytniczej rodziny. Sens jej egzystencji wyznacza ilość przeszmuglowanych papierosów i wódki. Zmęczona byciem zombie za życia, postanawia skończyć ze sobą. Na uboczu, w leśnej scenerii próbuje zagazować się w aucie. Wszystko się komplikuje, gdy na drodze do raju nieoczekiwanie wyrasta syryjski uchodźca. Młody i nieustępliwy mężczyzna, w kontraście do dziewczyny, z całych sił walczy o przetrwanie.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "ryuichi sakamoto opus_2023": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2023,
+    "imdb_id": null,
+    "awards": "28 marca 2023 roku zmarł Ryuichi Sakamoto, japoński kompozytor. Mimo choroby w 2022 roku dał swój ostatni występ, grając solo na fortepianie. Koncert, nagrany przez jego syna, jest osobistą elegią.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pompeje zycie w rzymskim miescie_2025": {
+    "rating": 6.7,
+    "votes": 251,
+    "rating_fmt": "⭐ 6.7 (251)",
+    "year": 2026,
+    "imdb_id": null,
+    "awards": "Codzienne życie mieszkańców Pompejów tuż przed erupcją Wezuwiusza w 79 r. n.e. Dzięki najnowszym odkryciom archeologicznym możliwe jest poznanie świata, który w jednej chwili zniknął.  Czy ktokolwiek ocalał z zagłady Pompejów? [person=319053]Tom Hiddleston[/person] prowadzi przełomowe dochodzenie w sprawie ostatnich 24 godzin przed wybuchem Wezuwiusza. Łączy najnowocześniejszą archeologię z własną intuicją, by odkryć, co naprawdę stało się z ludźmi pogrzebanymi pod popiołem. Śledzi losy nastolatka, kobiety interesu i żołnierza, którzy w wyścigu z czasem stają przed dramatycznymi wyborami.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "jamie wyeth artysta bezkompromisowy_2024": {
+    "rating": 7.2,
+    "votes": 3,
+    "rating_fmt": "⭐ 7.2 (3)",
+    "year": 2024,
+    "imdb_id": "tt32020367",
+    "awards": "Bohater, Jamie Wyeth, amerykański malarz realista z trzeciej generacji słynnej rodziny artystów, znany jest z portretów sław, jak Kennedy, Warhol, oraz starannie malowanych zwierząt gospodarskich.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wsciekly byk_1980": {
+    "rating": 7.9,
+    "votes": 67676,
+    "rating_fmt": "⭐ 7.9 (68k)",
+    "year": 1980,
+    "imdb_id": "tt0081398",
+    "awards": "Opowieść o karierze amerykańskiego pięściarza Jake'a La Motty. Oscar dla Roberta De Niro.  Historia zawodowego mistrza wagi ciężkiej [person=46548]Jake'a La Motty[/person] (Oscarowa rola [person=123]Roberta De Niro[/person]). Bokser dzięki niebywałej sile, odporności na ciosy i wrodzonej agresywności króluje na ringu przez długie lata. Jednak presja otoczenia wywierana na mistrza świata doprowadza do frustracji przeradzającej się w spiralę upadku i samodestrukcji. Zaczyna nadużywać mocnych trunków, coraz częściej bije żonę ([person=2825]Cathy Moriarty[/person]), a jego doskonałe dotąd stosunki z bratem Joeyem ([person=82]Joe Pesci[/person]), ulegają z dnia na dzień pogorszeniu.",
+    "awards_badges": "🏆 Oscar",
+    "awards_bonus": 10.0
+  },
+  "sabrina_1954": {
+    "rating": 7.5,
+    "votes": 24191,
+    "rating_fmt": "⭐ 7.5 (24k)",
+    "year": 1954,
+    "imdb_id": "tt0047437",
+    "awards": "Skromna marzycielka może spełnić swój sen.  Sabrina jest córką szofera państwa Larrabee. Nieszczęśliwie kocha się w Davidzie - hulace i kobieciarzu. Jako nastolatka udaje się do Paryża. Po dwóch latach wraca jako dojrzała kobieta i zawraca w głowie nie tylko Davidowi, który ma się żenić, ale także myślącemu tylko o pieniądzach Linusowi...",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "lodowy szlak_2021": {
+    "rating": 5.9,
+    "votes": 11101,
+    "rating_fmt": "⭐ 5.9 (11k)",
+    "year": 2021,
+    "imdb_id": "tt3758814",
+    "awards": "Konwój ciężarówek musi pokonać bardzo niebezpieczną trasę.  W kopalni diamentów na północy Kanady dochodzi do wypadku. Twardy kierowca tira przyzwyczajony do lodowych szlaków staje na czele misji ratunkowej. Aby ocalić uwięzionych górników, jego ekipa musi pokonać zamarznięty ocean. Walcząc z topniejącym lodem i potężnym sztormem, odkrywają prawdziwe zagrożenie, którego nikt nie mógł przewidzieć.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "tajemnice wikingow odkrywanie nowych swiatow_2016": {
+    "rating": 0.0,
+    "votes": 0,
+    "rating_fmt": "—",
+    "year": 2016,
+    "imdb_id": null,
+    "awards": "Dan Snow wraz z dr Sarah Parcak odnajdują ślady wikingów w Ameryce.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "fajna dziewczyna simona kossak we wspomnieniach lesnikow_2024": {
+    "rating": 6.1,
+    "votes": 18683,
+    "rating_fmt": "⭐ 6.1 (19k)",
+    "year": 2024,
+    "imdb_id": null,
+    "awards": "Podróż w przeszłość wypełniona wspomnieniami ludzi, którzy znali Simonę Kossak zarówno z relacji osobistych, jak i zawodowych. W historiach tych nie zabraknie chwil radości i humoru oraz wzruszeń.  [person=2953233]Simona Kossak[/person], córka malarza Jerzego Kossaka i wnuczka Wojciecha, pozbawiona talentu, który od pokoleń definiuje jej rodzinę, dorasta nie zaznając ciepła ze strony despotycznej matki. Gdy po studiach rzuca wszystko – dom, tradycję, społeczne konwenanse – i obejmuje posadę naukowczyni w Białowieży, zaczyna życie na własnych warunkach. Osiedla się w środku puszczy, w domu bez prądu i bieżącej wody, w otoczeniu dzikiej przyrody. Tam, na magicznym odludziu poznaje fotografa Lecha Wilczka, z którym dzieli pasje – miłość do natury i... potrzebę wolności. Ich niezwykła relacja wymyka się wszelkim schematom. Jednak wyobrażenia [person=2953233]Simony[/person] o pracy przyrodnika i pozycji młodej kobiety w świecie zdominowanym przez mężczyzn ulegają bolesnej weryfikacji. Musi stanąć w obronie nie tylko swoich ideałów, ale również świata roślin i zwierząt.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "niedziela z rolami jana frycza ostoja_2012": {
+    "rating": 5.1,
+    "votes": 824,
+    "rating_fmt": "⭐ 5.1 (824)",
+    "year": 2012,
+    "imdb_id": "tt2109197",
+    "awards": "Dojrzały mężczyzna na życiowym zakręcie.  Jan jest cenionym chirurgiem plastycznym, ma żonę, córkę i duży dom z ogrodem. Po latach rezygnuje jednak z wykonywania zawodu, odsuwa się od rodziny, a na przyrodę patrzy już tylko z okna swojego pokoju. Pewnego dnia, po powrocie z podróży na wycieraczce znajduje trzydniową prasę, a w ogrodzie ciało żony. To zdarzenie uruchamia lawinę skrywanych dotąd emocji. Powracają wspomnienia, a w jego życiu znowu pojawia się dorosła córka Nadia. Pod pretekstem podróży służbowej Jan wyjeżdża za granicę. Nie przypuszcza, że z daleka od domu odżyją uczucia, przed którymi zawsze uciekał.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "mama_2015": {
+    "rating": 7.2,
+    "votes": 41827,
+    "rating_fmt": "⭐ 7.2 (42k)",
+    "year": 2014,
+    "imdb_id": "tt3480886",
+    "awards": "Magda samotnie wychowuje syna. Lekarze diagnozują u niej nowotwór. Kobieta znajduje w sobie niezwykłe pokłady nadziei, humoru i odwagi. Znakomita kreacja Penélope Cruz.  Owdowiała kobieta wychowuje samotnie agresywnego syna. Chłopak ma piętnaście lat i cierpi na ADHD. Wspólnie próbują związać koniec z końcem i stawić czoła problemom. Nieoczekiwanie w ich życiu pojawia się Kyla, tajemnicza sąsiadka mieszkająca po drugiej stronie drogi. Dziewczyna sprawia, że w życiu matki i syna znów pojawia się nadzieja na lepszą przyszłość.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "pompeje_2014": {
+    "rating": 5.5,
+    "votes": 57896,
+    "rating_fmt": "⭐ 5.5 (58k)",
+    "year": 2014,
+    "imdb_id": null,
+    "awards": "Wojownik szuka zemsty na zabójcy swojej rodziny.  Jest 79 rok naszej ery. Rzymskie miasto Pompeje znajduje się w rozkwicie i na pozór nic nie zapowiada nadchodzącej katastrofy. Milo, niewolnik i gladiator, przybywa do miasta, by  stoczyć walkę, która może dać mu wolność i prawo do ubiegania się o rękę  ukochanej Cassii. Jego szanse są nikłe, bo dziewczyna została już  przeznaczona skorumpowanemu rzymskiemu generałowi. Wkrótce jednak potęga  natury odmieni losy wszystkich mieszkańców Pompei. Kiedy Wezuwiusz  wybucha, wyrzucając z siebie potoki śmiercionośnej lawy, Milo musi  wydostać się z areny, aby uratować życie ukochanej kobiety, podczas gdy  majestatyczne Pompeje pochłania żywioł.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  },
+  "wyspa kanibali_2010": {
+    "rating": 6.6,
+    "votes": 48,
+    "rating_fmt": "⭐ 6.6 (48)",
+    "year": 2009,
+    "imdb_id": null,
+    "awards": "Po kolektywizacji rolnictwa dotknęła ZSRR klęska głodu. W 1933 r. wyłapano tysiące bezdomnych i umieszczono na syberyjskiej wyspie Nazino.",
+    "awards_badges": "—",
+    "awards_bonus": 0.0
+  }
+}
